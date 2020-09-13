@@ -1,0 +1,1565 @@
+yr	category	winner	film
+2020	best film	Gully Boy	
+2020	critics best film	Sonchiriya (Abhishek Chaubey)	
+2020	best actor in a leading role (male)	Ranveer Singh	Gully Boy
+2020	critics best actor in a leading role (male)	Ayushmann Khurrana	Article 15
+2020	best actor in a leading role (female)	Alia Bhatt	Gully Boy
+2020	critics best actor in leading role (female)	Taapsee Pannu	Saand Ki Aankh
+2020	best director	Zoya Akhtar	Gully Boy
+2020	best actor in a supporting role (male)	Siddhant Chaturvedi	Gully Boy
+2020	best actor in a supporting role (female)	Surekha Sikri	Gully Boy
+2020	best music album	Mithoon|Amaal Mallik|Vishal Mishra|Sachet-Parampara|Akhil Sachdeva	
+2020	best lyrics	Divine Tewari|Ankur Tewari	Gully Boy
+2020	best playback singer (male)	Arijit Singh	Kalank
+2020	best playback singer (female)	Shilpa Rao	War
+2020	best debut director	Aditya Dhar	Uri: The Surgical Strike
+2020	best debut male	Abhimanyu Dassani	Mard Ko Dard Nahi Hota
+2020	best debut female	Ananya Panday	Student Of The Year 2
+2020	best action	"Paul Jennings, Oh Sea Young, Parvez Shaikh And Franz Spilhaus"	War
+2020	best background score	Karsh Kale And The Salvage Audio Collective	Gully Boy
+2020	best choreography	Remo D'Souza	Kalank
+2020	best cinematography	Jay Oza	Gully Boy
+2020	best costume	"Divvya Gambhir, Niddhi Gambhir"	Sonchiriya
+2020	best editing	Shivkumar V Panicker	Uri: The Surgical Strike
+2020	best production design	Suzanne Caplan Merwanji	Gully Boy
+2020	best sound design	Bishwadeep Dipak Chatterjee And Nihar Ranjan Samal	Uri: The Surgical Strike
+2020	best vfx	Sherry Bharda And Vishal Anand For Vfx	War
+2020	best dialogue	Vijay Maurya	Gully Boy
+2020	best screenplay	Reema Kagti|Zoya Akhtar	Gully Boy
+2020	best original story	Anubhav Sinha|Gaurav Solanki	Article 15
+2020	people's choice award for best short film	Rohit Bapu Kamble	Deshi
+2020	best short film in fiction	Shazia Iqbal	Bebaak
+2020	best short film in non fiction	Ananth Narayan Mahadevan	Village Of A Lesser God
+2020	best actor female short film	Sarah Hashmi	Bebaak
+2020	best actor male short film	Rajesh Sharma	Tindey
+2020	rd burman award for upcoming music talent	Sashwat Sachdev	Uri: The Surgical Strike
+2020	30 years of outstanding contribution to bollywood fashion	Manish Malhotra	
+2020	excellence in cinema	Govinda	
+2020	lifetime achievement award	Ramesh Sippy	
+2019	best film	Raazi	
+2019	critics best film	Andhadhun	
+2019	best actor in a leading role (male)	Ranbir Kapoor	Sanju
+2019	critics best actor in a leading role (male)	Ranveer Singh	Padmaavat
+2019	best actor in a leading role (female)	Alia Bhatt	Raazi
+2019	critics best actor in leading role (female)	Neena Gupta	Badhaai Ho
+2019	best director	Meghna Gulzar	Raazi
+2019	best actor in a supporting role (male)	Vicky Kaushal	Sanju
+2019	best actor in a supporting role (female)	Surekha Sikri	Badhaai Ho
+2019	best music album	Sanjay Leela Bhansali	Padmaavat
+2019	best lyrics	Gulzar	Raazi
+2019	best playback singer (male)	Arijit Singh	Raazi
+2019	best playback singer (female)	Shreya Ghoshal	Padmaavat
+2019	people's choice award for best short film	Plus Minus	
+2019	best short film in fiction	Rogan Josh	
+2019	best short film in non fiction	The Soccer City	
+2019	best actor female short film	Kirti Kulhari	Maya
+2019	best actor male short film	Hussain Dalal	Shameless
+2019	rd burman award for upcoming talent in film music	Niladri Kumar	Laila Majnu
+2019	50 years of outstanding contribution to cinema	Hema Malini	
+2019	best debut female	Sara Ali Khan	Kedarnath
+2019	best debut male	Ishaan Khattar	Beyond The Clouds
+2019	best debut director	Amar Kaushik	Stree
+2019	lifetime achievement award	Sridevi	
+2019	best original story	Anubhav Sinha	Mulk
+2019	best screenplay	Sriram Raghavan|Arijit Biswas|Pooja Ladha Surti|Yogesh Chandekar|Hemanth Rao	Andhadhun
+2019	best dialogue	Akshat Ghildial	Badhaai Ho
+2019	best editing	Pooja Ladha Surti	Andhadhun
+2019	best action	Vikram Dahiya And Sunil Rodriguez	Mukkabaaz
+2019	best background score	Daniel B. George	Andhadhun
+2019	best choreography	Kruti Mahesh Midya And Jyothi D Tommaar	Padmaavat
+2019	best cinematography	Pankaj Kumar	Tumbbad
+2019	best costume	Sheetal Sharma	Manto
+2019	best production design	"Nitin Zihani Choudhary, Rakesh Yadav"	Tumbbad
+2019	best sound design	Kunal Sharma	Tumbbad
+2019	best vfx	Red Chillies Vfx	Zero
+2018	best film	Hindi Medium	
+2018	critics best film	Newton	
+2018	best actor in a leading role (male)	Irrfan Khan	Hindi Medium
+2018	critics best actor in a leading role (male)	Rajkumar Rao	Trapped
+2018	best actor in a leading role (female)	Vidya Balan	Tumhari Sulu
+2018	critics best actress	Zaira Wasim	Secret Superstar
+2018	best director	Ashwiny Iyer Tiwari	Bareilly Ki Barfi
+2018	best actor in a supporting role (male)	Rajkummar Rao	Bareilly Ki Barfi
+2018	best actor in a supporting role (female)	Meher Vij	Secret Superstar
+2018	best music album	Pritam	Jagga Jasoos
+2018	best lyrics	Amitabh Bhattacharya	Jagga Jasoos
+2018	best playback singer (male)	Arijit Singh	Badrinath Ki Dulhania
+2018	best playback singer (female)	Meghna Mishra	Secret Superstar
+2018	people's choice award for best short film	Anahut	Anahut
+2018	best short film in fiction	Juice	Juice
+2018	best short film in non fiction	Invisible Wings	Invisible Wings
+2018	best actor female short film	Shefali Shah	Juice
+2018	best actor male short film	Jackie Shroff	Khujli
+2018	best action	Tom Struthers	Tiger Zinda Hai
+2018	best background score	Pritam	Jagga Jasoos
+2018	best choreography	Vijay Ganguly And Ruel Dausan Varindani	Galti Se Mistake
+2018	best costume	Rohit Chaturvedi	A Death In The Gunj
+2018	best cinematography	Sirsha Ray	A Death In The Gunj
+2018	best editing	Nitin Baid	Trapped
+2018	best sound design	Anish John	Trapped
+2018	best production design	Parul Sondh	Daddy
+2018	best original story	Amit Masurkar	Newton
+2018	best screenplay	Shubhashish Bhutiani	Mukti Bhawan
+2018	best dialogue	Hitesh Kewalya	Shubh Mangal Saavdhan
+2018	best debut director	Konkona Sen Sharma	A Death In The Gunj
+2018	lifetime achievement award	Mala Sinha & Bappi Lahiri	
+2017	best film	Dangal	
+2017	best director	Nitish Tiwari	Dangal
+2017	best actor in a leading role (male)	Aamir Khan	Dangal
+2017	best actor in a leading role (female)	Alia Bhatt	Udta Punjab
+2017	best actor in a supporting role (male)	Rishi Kapoor	Kapoor & Sons
+2017	best actor in a supporting role (female)	Shabana Azmi	Neerja
+2017	best music album	Pritam	Ae Dil Hai Mushkil
+2017	best lyrics	Amitabh Bhattacharya	Ae Dil Hai Mushkil
+2017	best playback singer (male)	Arijit Singh	Ae Dil Hai Mushkil
+2017	best playback singer (female)	Neha Bhasin	Sultan
+2017	people's choice award for best short film	Khamakha	Khamakha
+2017	best short film in fiction	Chutney	Chutney
+2017	best short film in non fiction	Matitali Kusti	Matitali Kusti
+2017	best actor female short film	Tisca Chopra	Chutney
+2017	best actor male short film	Manoj Bajpai	Taandav
+2017	best dialogue	Ritesh Shah	
+2017	best production design	Anna Ipe & Aparna Sud	
+2017	best screenplay	Shakun Batra|Ayesha DeVitre	
+2017	critics’ award - best film	Ram Madhvani	
+2017	best actor critics’ award	Shahid Kapoor (Udta Punjab)/ Manoj Bajpayee(Aligarh)	
+2017	best actress critics’ award	Sonam Kapoor	
+2017	best choreographer	Adil Shaikh	Kar Gayi Chul
+2017	lifetime achievement award	Shatrughan Sinha	
+2017	best action	Sham Kaushal	
+2017	best newcomer (male)	Diljit Dosanjh	
+2017	best newcomer (female)	Ritika Singh	
+2017	best newcomer (director)	Ashwiny Iyer Tiwari	
+2017	best background score	Sameer Uddin	
+2017	best costume designer	Payal Saluja	
+2017	best vfx	Red Chillies Vfx	
+2017	rd burman award	Amit Mishra	
+2017	best story	Shakun Batra|Ayesha DeVitre	
+2017	best cinematography	Mitesh Mirchandani	
+2017	best sound design	Vivek Sachidanand	
+2017	best editing	Monisha R Baldawa	
+2016	best production design	"Sujeet Sawant, Sriram Iyengar & Saloni Dhatrak"	Bajirao Mastani
+2016	best screenplay	Juhi Chaturvedi	Piku
+2016	critics’ award—best film	Piku	
+2016	best actor critics’award	Amitabh Bachchan	Piku
+2016	best actress critics’award	Kangna Ranaut	Tanu Weds Manu Returns
+2016	best choreographer	Pt. Birju Maharaj	Mohe Rang Do Laal
+2016	lifetime achievement award	Moushmi Chatterji	Kapoor & Sons
+2016	best newcomer (male)	Sooraj Pancholi	Hero
+2016	best newcomer (female)	Bhumi Pednekar	Dum Laga Ke Haisha
+2016	best newcomer (director)	Neeraj Ghaywan	Masaan
+2016	best background score	Anupam Roy	Piku
+2016	best costume designer	Anju Modi & Maxima Basu	Bajirao Mastani
+2016	best vfx	Prana Studio	Bombay Velvet
+2016	rd burman award	Armaan Mallik	Fan
+2016	best film	Bajirao Mastani	
+2016	best director	Sanjay Leela Bhansali	Bajirao Mastani
+2016	best actor	Ranveer Singh	Bajirao Mastani
+2016	best actress	Deepika Padukone	Piku
+2016	best music director	Ankit Tiwari|Meet Bros|Anjan Malik|Amal Malik	Roy
+2016	best actor in a supporting role	Anil Kapoor	Dil Dhadakne Do
+2016	best actress in a supporting role	Priyanka Chopra	Bajirao Mastani
+2016	best story	Vijayendra Prasad	Bajirao Mastani
+2016	best cinematography	Manu Anand	Dum Laga Ke Haisha
+2016	best sound design	Shajith Koyeri	Talvar
+2016	best editing	A Sreekar Prasad	Talvar
+2016	best playback singer (male)	Arijit Singh	Roy
+2016	best playback singer (female)	Shreya Ghoshal	Bajirao Mastani
+2016	best lyricist	Irshad Kamil	Tamasha
+2016	best dialogue	Himanshu Sharma	Tanu Weds Manu Returns
+2016	best action	Sham Kaushal	Bajirao Mastani
+2015	best film	Queen	
+2015	best director	Vikas Bahl	Queen
+2015	best actor	Shahid Kapoor	Haider
+2015	best actress	Kangana Ranaut	Queen
+2015	best music director	Shankar-Ehsaan-Loy	2 States
+2015	best actor in a supporting role	Kay Kay Menon	Haider
+2015	best actress in a supporting role	Tabu	Haider
+2015	best story	Rajat Kapoor	Ankhon Dekhi
+2015	best cinematography	Bobby Singh & Siddharth Diwan	Queen
+2015	best sound design	Anilkumar Konakandla & Prabal Pradhan	Mardaani
+2015	best editing	Anurag Kashyap & Abhijit Kokate	Queen
+2015	best playback singer (male)	Ankit Tiwari	Ek Villain
+2015	best playback singer (female)	Kanika Kapoor	Ragini Mms2
+2015	best lyricist	Rashmi Singh	Citylights
+2015	best dialogue	Rajkumar Hirani|Abhijat Joshi	Pk
+2015	best production design	Subrata Chakraborty & Amit Ray	Haider
+2015	best screenplay	Rajkumar Hirani|Abhijat Joshi	Pk
+2015	critics’ award - best film	Ankhon Dekhi	
+2015	best actor critics’ award	Sanjay Mishra	Ankhon Dekhi
+2015	best actress critics’ award	Alia Bhatt	Highway
+2015	best choreographer	Ahmed Khan	Kick
+2015	lifetime achievement award	Kamini Kaushal	
+2015	best action	Sham Kaushal	Gunday
+2015	best newcomer (male)	Fawad Khan	Khoobsurat
+2015	best newcomer (female)	Kriti Sanon	Heropanti
+2015	best newcomer (director)	Abhishek Varman	2 States
+2015	best background score	Amit Trivedi	Queen
+2015	best costume designer	Dolly Ahluwalia	Haider
+2014	best film	Bhaag Milkha Bhaag	
+2014	best director	Rakesh Omprakash Mehra	Bhaag Milkha Bhaag
+2014	best actor	Farhan Akhtar	Bhaag Milkha Bhaag
+2014	best actress	Deepika Padukone	Goliyon Ki Raasleela
+2014	best music director	Ankit Tiwari|Mithoon|Jeet Ganguly	Aashiqui
+2014	best actor in a supporting role	Nawazuddin Siddiqui	The Lunchbox
+2014	best actress in a supporting role	Supriya Pathak	Goliyon Ki Raasleela
+2014	best story	Subhash Kapoor	Jolly Llb
+2014	best cinematography	Kamaljeet Negi	Madras Cafe
+2014	best sound design	Bishwadeep Chatterjee & Nihar Ranjan Samal	Madras Cafe
+2014	best editing	Aarif Sheikh	D
+2014	best playback singer (male)	Arijit Singh	Aashiqui
+2014	best playback singer (female)	Monali Thakur	Lootera
+2014	best lyricist	Prasoon Joshi	Zinda
+2014	best dialogue	Subhash Kapoor	Jolly Llb
+2014	best production design /art direction	Sumit Basu	Bhaag Milkha Bhaag
+2014	best screenplay	Pubali Chaudhuri|Supratik Sen|Abhishek Kapoor|Chetan Bhagat	Kai Po Che
+2014	critics’ award - best film	Ritesh Batra	The Lunchbox
+2014	best actor critics’ award	Rajkumar Rao	Shahid
+2014	best actress critics’ award	Shilpa Shukla	Ba Pass
+2014	best choreographer	Samir And Arsh Tanna	Goliyon Ki Raasleela
+2014	lifetime achievement award	Tanuja	
+2014	best action	Thomas Struthers And Guru Bachchan	D
+2014	r d burman award	Siddharth Mahadevan	Zinda
+2014	best newcomer (male)	Dhanush	Raanjhanaa
+2014	best newcomer (female)	Vaani Kapoor	Shuddi Desi Romance
+2014	best newcomer (director)	Ritesh Batra	The Lunchbox
+2014	best background score	Hitesh Sonik	Kai Po Che
+2014	best costume designer	Dolly Ahluwalia	Bhaag Milkha Bhaag
+2014	best special/visual effects (tata elxsi)	Joel Hynek & Pankaj Khandpur	Dhoom 3
+2014	sony trendsetter of the year	Chennai Express	
+2013	best film	Barfi!	
+2013	best director	Sujoy Ghosh	Kahaani
+2013	best actor	Ranbir Kapoor	Barfi!
+2013	best actress	Vidya Balan	Kahaani
+2013	best music director	Pritam	Barfi!
+2013	best actor in a supporting role	Annu Kapoor	Vicky Donor
+2013	best actress in a supporting role	Anushka Sharma	Jab Tak Hai Jaan
+2013	best story	Juhi Chaturvedi	Vicky Donor 
+2013	best cinematography	Sethu	Kahaani
+2013	best sound recordist	Sanjay Maurya & Allwin Rego	Kahaani
+2013	best editing	Namrata Rao	Kahaani
+2013	best playback singer (male)	Ayushmann Khurrana	Pani Da Rang Dekh Ke
+2013	best playback singer (female)	Shalmali Kholgade	Pareshaan
+2013	best lyricist	Gulzar	Challa  Jab Tak Hai Jaan
+2013	best dialogue	Anurag Kashyap|Zeishan Qadri|Akhilesh Jaiswal|Sachin K Ladia	Gangs Of Wasseypur
+2013	best production design /art direction	Rajat Podar	Barfi!
+2013	best screenplay	Sanjay Chauhan|Tigmanshu Dhulia	Paan Singh Tomar
+2013	critics award best film	Gangs Of Wasseypur	Anurag Kashyap
+2013	best actor critics award	Irrfan Khan	Paan Singh Tomar
+2013	best actress critics award	Richa Chadda	Gangs Of Wasseypur
+2013	best choreographer	Bosco  Caesar	Aunty Ji  Ek Main Aur Ekk Tu
+2013	lifetime achievement award	Yash Chopra	
+2013	best action	Sham Kaushal	Gangs Of Wasseypur
+2013	r d burman award	Neeti Mohan	Jiya Re  Jab Tak Hai Jaan
+2013	best newcomer (male)	Ayushmann Khurrana	Vicky Donor
+2013	best newcomer (female)	Ileana D'Cruz	Barfi!
+2013	best newcomer (director)	Gauri Shinde	English Vinglish
+2013	best background score	Pritam	Barfi!
+2013	best costume designer	Manoshi Nath & Rushi Sharma	Shanghai
+2013	sony trendsetter of the year	Barfi!	
+2012	best film	Zindagi Na Milegi Dobara	
+2012	best director	Zoya Akhtar	Zindagi Na Milegi Dobara
+2012	best actor	Ranbir Kapoor	Rockstar
+2012	best actress	Vidya Balan	The Dirty Picture
+2012	best music director	A.R. Rahman	Rockstar
+2012	best actor in a supporting role	Farhan Akhtar	Zindagi Na Milegi Dobara
+2012	best actress in a supporting role	Rani Mukherjee	No One Killed Jessica
+2012	best story	Sanjay Chauhan	I Am Kalam
+2012	best cinematography	Carlos Catalon	Zindagi Na Milegi Dobara
+2012	best sound recordist	Nakul Kamte	Don
+2012	best editing	Huzefa Lokhandwala	Delhi Belly
+2012	best playback singer (male)	Mohit Chauhan	Jo Bhi Main Kehna Chahoon  Rockstar
+2012	best playback singer (female)	Rekha Bhardwaj & Usha Uthup	Darling  7 Khoon Maaf
+2012	best lyricist	Irshad Kamil	Nadaan Parindey
+2012	best dialogue	Farhan Akhtar	Zindagi Na Milegi Dobara
+2012	best production design /art direction	Shashank Tere	Delhi Belly
+2012	best screenplay	Akshat Verma	Delhi Belly
+2012	critics award best film	Zindagi Na Milegi Dobara	Zoya Akhtar
+2012	best actor critics award	Ranbir Kapoor	Rockstar
+2012	best actress critics award	Priyanka Chopra	7 Khoon Maaf
+2012	best choreographer	Bosco  Caesar	Senorita  Zindagi Na Milegi Dobara
+2012	lifetime achievement award	Aruna Irani	
+2012	best action	Action Concepts	Don
+2012	r d burman award	Krsna	Tanu Weds Manu
+2012	best newcomer (male)	Vidyut Jamwal	Force
+2012	best newcomer (female)	Parineeti Chopra	Ladies V/S Ricky Bahl
+2012	best newcomer (director)	Abhinay Deo	Delhi Belly
+2012	best background score	Ranjit Barot	Shaitan
+2012	best costume designer	Niharika Khan	The Dirty Picture
+2012	best special effects	Red Chillies Vfx	Ra.One
+2012	idea-sony - best scene of the year	The Dirty Picture	Picture Sirf Teen Wajahon Se Chalti Hai
+2012	special jury mention for outstanding performance (certificates)	Partho Gupte	Stanley Ka Dabba
+2011	best film		Dabangg
+2011	best director	Karan Johar	My Name Is Khan
+2011	best actor	Shahrukh Khan	My Name Is Khan
+2011	best actress	Kajol	My Name Is Khan
+2011	best music director	Sajid Wajid|Lalit Pandit	Dabangg
+2011	best actor in a supporting role	Ronit Roy	Udaan
+2011	best actress in a supporting role	Kareena Kapoor	We Are Family
+2011	best story	Anurag Kashyap|Vikramaditya Motwane	Udaan
+2011	best cinematography	Mahendra Shetty	Udaan
+2011	best sound recordist	Kunal Sharma	Udaan& Pritam Das
+2011	best editing	Namrata Rao	"Love, Sex Aur Dhoka"
+2011	best playback singer (male)	Rahat Fateh Ali Khan	Dil Toh Bachcha Hai  Ishqiya
+2011	best playback singer (female)	Mamta Sharma	Munni Badnaam Hui  Dabangg & Sunidhi Chauhan
+2011	best lyricist	Gulzar	Dil Toh Bachcha Hai
+2011	best dialogue	Habib Faisal	Do Dooni Chaar
+2011	best production design /art direction	Mukund Gupta	Do Dooni Char
+2011	best screenplay	Anurag Kashyap|Vikramaditya Motwane	Udaan
+2011	critics award best film	Vikramaditya Motwane	Udaan
+2011	best actor critics award	Rishi Kapoor	Do Dooni Chaar
+2011	best actress critics award	Vidya Balan	Ishqiya
+2011	best choreographer	Farah Khan	Sheila Ki Jaawani  Tees Maar Khan
+2011	lifetime achievement award	Manna Dey	
+2011	best action	Vijayan Master	Dabangg
+2011	r d burman award	Sneha Khanvilkar	"Love,Sex Aur Dhoka"
+2011	best newcomer (male)	Ranveer Singh	Band Baaja Baraat
+2011	best newcomer (female)	Sonakshi Sinha	Dabangg
+2011	best newcomer (director)	Manish Sharma	Band Baaja Baraat
+2011	best background score	Amit Trivedi	Udaan
+2011	best costume designer	Varsha	Shilpa
+2011	idea-sony - best scene of the year	Golmaal3	
+2011	special award on completion of 40 years in hindi cinema.	Amitabh Bachchan	
+2011	special award on completion of 25 years in hindi cinema.	Madhuri Dixit	
+2010	best film	3 Idiots	
+2010	best director	Rajkumar Hirani	3 Idiots
+2010	best actor	Amitabh Bachchan	Paa
+2010	best actress	Vidya Balan	Paa
+2010	best music director	A.R. Rahman	Delhi 6
+2010	best actor in a supporting role	Boman Irani	3 Idiots
+2010	best actress in a supporting role	Kalki Koechlin	Dev D
+2010	best story	Abhijat Joshi|Rajkumar Hirani	3 Idiots
+2010	best cinematography	Rajeev Ravi	Dev D
+2010	best sound recordist	Manas Chaudhary	Firaaq
+2010	best editing	A.Sreekar Prasad	Firaaq
+2010	best playback singer (male)	Mohit Chauhan	Masakali  Delhi 6
+2010	best playback singer (female)	Kavita Seth	Iktara  Wake Up Sid & Rekha Bhardwaj
+2010	best lyricist	Irshad Kamil	Aaj Din Chadya
+2010	best dialogue	Abhijat Joshi|Rajkumar Hirani	3 Idiots
+2010	best production design / art direction	"Helen Jones, Sukanta Panigrahi"	Dev D
+2010	best screenplay	Abhijat Joshi|Rajkumar Hirani|Vidhu Vinod Chopra	3 Idiots
+2010	critics award best film	Nandita Das	Firaaq
+2010	best actor critics award	Ranbir Kapoor	"Wake Up Sid, Ajab Prem Ki Ghazab Kahani & Rocket Singh  The Salesman Of The Year"
+2010	best actress critics award	Mahie Gill	Dev D
+2010	best choreographer	Bosco Caeser	Chor Bazaari  Love Aaj Kal
+2010	lifetime achievement award	Khayyam	
+2010	best action	Vijayan Master	Wanted
+2010	r d burman award	Amit Trivedi	Dev D
+2010	best newcomer (male)	Ayaan Mukerji	Director  Wake Up Sid
+2010	best newcomer (female)	Zoya Akhtar	Director  Luck By Chance
+2010	best background score	Amit Trivedi	Dev D
+2010	best costume designer	Vaishali Menon	Firaaq
+2010	best visual effects	"Govardhan Vigharan, Vinay Singh Chuphal"	Kaminey
+2009	best film		Jodhaa Akbar
+2009	best director	Ashutosh Gowariker	Jodhaa Akbar
+2009	best actor	Hrithik Roshan	Jodhaa Akbar
+2009	best actress	Priyanka Chopra	Fashion
+2009	best music director	A.R. Rahman	Jaane Tu&
+2009	best actor in a supporting role	Arjun Rampal	Rock On!
+2009	best actress in a supporting role	Kangana Ranaut	Fashion
+2009	best story	Abhishek Kapoor	Rock On!
+2009	best cinematography	Jason West	Rock On!
+2009	best sound recordist	"Baylon Fonseca, Vinod Subramaniam"	Rock On!
+2009	best editing	Amit Pawar	Mumbai Meri Jaan
+2009	best playback singer (male)	Sukhwinder Singh	Haule Haule  Rab Ne Bana Di Jodi
+2009	best playback singer (female)	Shreya Ghoshal	Teri Ore  Singh Is Kinng
+2009	best lyricist	Javed Akhtar	Jashn E Bahara
+2009	best dialogue	Manu Rishi Chadha	Oye Lucky Lucky Oye
+2009	best production design /art direction	"Vandana Kataria, Angelica Bhowmick"	Oye Lucky Lucky Oye
+2009	best screenplay	 Yogesh Vinayak Joshi|Upendra Sidhaye	Mumbai Meri Jaan
+2009	critics award best film	Nishikant Kamat	Mumbai Meri Jaan
+2009	best actor critics award	Manjyot Singh	Oye Lucky Lucky Oye
+2009	best actress critics award	Shahana Goswami	Rock On!
+2009	best choreographer	Loniginus Fernandes	Pappu Can'T Dance  Jaane Tu&
+2009	lifetime achievement award	Om Puri	
+2009	best action	Peter Heins	Ghajini
+2009	r d burman award	Benny Dayal	"Jaane Tu,Yuvvraaj,Ghajini"
+2009	best newcomer (male)	Imran Khan	Jaane Tu & Farhan Akhtar
+2009	best newcomer (female)	Asin	Ghajini
+2009	best background score	A.R. Rahman	Jodhaa Akbar
+2009	best costume designer	"Manoshi Nath,Rushi Sharma"	Oye Lucky Lucky Oye
+2009	best visual effects	"Ian Mc Fadyen, John Dietz, Merzin Tavaria"	Love Story 2050
+2009	sony- best scene of the year	Yash Chopra	"When Srk Places The Rose On The Table , Then Decides Against In Rab Ne Bana Di Jodi"
+2009	special jury mention for outstanding performance(certificates)	Pratik Babbar	Jaane Tu & Purab Kohli
+2008	best film		Taare Zameen Par
+2008	best director	Aamir Khan	Taare Zameen Par
+2008	best actor	Shahrukh Khan	Chak De!India
+2008	best actress	Kareena Kapoor	Jab We Met
+2008	best music director	A.R. Rahman	Guru
+2008	best actor in a supporting role	Irrfan Khan	Life In A Metro
+2008	best actress in a supporting role	Konkona Sen Sharma	Life In A Metro
+2008	best story	Amole Gupte	Taare Zameen Par
+2008	best cinematographer colour	Sudeep Chatterjee	Chak De!India
+2008	best sound recordist	"Dwarak Warrier,Madhu Apsara & Leslie Fernandes"	Johnny Gaddar
+2008	best editing	Amitabh Shukla	Chak De!India
+2008	best playback singer (male)	Shaan	Jab Se Tere Naina  Saawariya
+2008	best playback singer (female)	Shreya Ghoshal	Barso Re
+2008	best lyricist	Prasoon Joshi	Maa
+2008	best dialogue	Imtiaz Ali	Jab We Met
+2008	best art director	Sameer Chanda	Guru
+2008	best screenplay	Anurag Basu	Life In A Metro
+2008	critics award best film	Shimit Amin	Chak De!India
+2008	best actor critics award	Darsheel Safary	Taare Zameen Par
+2008	best actress critics award	Tabu	Cheeni Kum
+2008	best choreographer	Saroj Khan	Barso Re
+2008	lifetime achievement award	Rishi Kapoor	
+2008	best action	Rob Miller	Chak De!India
+2008	r d burman award	Monty Sharma	
+2008	best newcomer (male)	Ranbir Kapoor	Saawariya
+2008	best newcomer (female)	Deepika Padukone	Om Shanti Om
+2008	best background music	A.R. Rahman	Guru
+2008	filmfare power award	Yash Chopra & Aditya Chopra	
+2008	sony-head & shoulders face of the year	Deepika Padukone	
+2008	best costume designer	Sujata Sharma Virk	Gandhi My Father
+2008	best special effects	Red Chillies Vfx	Om Shanti Om
+2007	best film		Rang De Basanti
+2007	best director	Rakesh Omprakash Mehra	Rang De Basanti
+2007	best actor	Hrithik Roshan	Dhoom
+2007	best actress	Kajol	Fanaa
+2007	best music director	A.R. Rahman	Rang De Basanti
+2007	best actor in a supporting role	Abhishek Bachchan	Kabhi Alvida Naa Kehna
+2007	best actress in a supporting role	Konkona Sen Sharma	Omkara
+2007	best story	Vidhu Vinod Chopra|Rajkumar Hirani	Lage Raho Munna Bhai
+2007	best cinematographer colour	Binod Pradhan	Rang De Basanti
+2007	best sound recordist	"K J Singh, Subhash Sahu & Sajith Koeiri"	Omkara
+2007	best editor	P S Bharathi	Rang De Basanti
+2007	best playback singer (male)	Shaan & Kailash Kher	Chand Sifarish
+2007	best playback singer (female)	Sunidhi Chauhan	Beedi Jalaile
+2007	best lyricist	Prasoon Joshi	Chand Sifarish
+2007	best dialogue	Rajkumar Hirani|Abhijat Joshi	Lage Raho Munna Bhai
+2007	best art director colour	Samir Chanda	Omkara
+2007	best actor in a comic role	Arshad Warsi	Lage Raho Munna Bhai
+2007	best screenplay	Jaideep Sahni	Khosla Ka Ghosla
+2007	critics award best film	Rajkumar Hirani	Lage Raho Munna Bhai
+2007	best choreographer	Ganesh Acharya	Beedi Jalaile
+2007	best actor in a villainous role	Saif Ali Khan	Omkara
+2007	lifetime achievement award	Javed Akhtar	
+2007	best action	Tony Ching Siu Tung & Shyam Kaushal	Krrish
+2007	best actor/actress critics award	Kareena Kapoor	Omkara
+2007	r d burman award	Naresh Iyer	
+2007	best newcomer (female)	Kangana Ranaut	Gangster & Who Lamhe
+2007	best background music	Salim	Sulaiman
+2007	filmfare power award	Yash Chopra & Aditya Chopra	
+2007	sony-fair one face of the year	Kangana Ranaut	
+2007	special jury recognition	Deepak Dobriyal	Omkara
+2007	best costume	Dolly Ahluwalia	Omkara
+2007	best special effects	Marc Kolbe & Craig Mumma	Krrish
+2006	best film		Black
+2006	best director	Sanjay Leela Bhansali	Black
+2006	best actor	Amitabh Bachchan	Black
+2006	best actress	Rani Mukherjee	Black
+2006	best music director	Shankar-Ehsaan-Loy	
+2006	best actor in a supporting role	Abhishek Bachchan	Sarkar
+2006	best actress in a supporting role	Ayesha Kapoor	Black
+2006	best story	Sudhir Mishra|Shiv Kumar Subramanium|Ruchi Narain	Hazaaron Khwaishein Aisi
+2006	best cinematographer colour	Ravi K Chandran	Black
+2006	best sound recordist	Bishwadeep Chatterjee	Parineeta
+2006	best editor	Bela Segal	Black
+2006	best playback singer (male)	Himesh Reshammiya	Aashiq Banaya Aapne
+2006	best playback singer (female)	Alisha Chinai	Kajrare
+2006	best lyricist	Gulzar	Kajrare
+2006	best dialogue	Prakash Jha	Apaharan
+2006	best art director colour	"Keshto Mondal, Tanushree Sarkar & Pradeep Sarkar"	Parineeta
+2006	best actor in a comic role	Akshay Kumar	Garam Masala
+2006	bst screenplay	Nina Arora|Manoj Tyagi	Page 3
+2006	critics award best film	Sanjay Leela Bhansali	Black
+2006	best choreographer	Howard Rosemeyer	Kaisi Paheli
+2006	best actor in a villainous role	Nana Patekar	Apaharan
+2006	lifetime achievement award	Shabana Azmi	
+2006	best action	Allan Amin	Dus
+2006	best actor/actress critics award	Rani Mukherjee	Black
+2006	r d burman award	Shantanu Moitra	
+2006	best newcomer (male)	Shiney Ahuja	Hazaaron Khwaishein Aisi
+2006	best newcomer (female)	Vidya Balan	Parineeta
+2006	best background music	Monty Sharma	Black
+2006	filmfare power award	Yash Chopra & Aditya Chopra	
+2006	sony-fair one face of the year	Vidya Balan	
+2005	best film	Veer Zara	Yash Chopra
+2005	best director	Kunal Kohli	Hum Tum
+2005	best actor	Shahrukh Khan	Swades
+2005	best actress	Rani Mukherjee	Hum Tum
+2005	best music director	Anu Malik	Main Hoon Na
+2005	best actor in a supporting role	Abhishek Bachchan	Yuva
+2005	best actress in a supporting role	Rani Mukherjee	Yuva
+2005	best story	Aditya Chopra	Veer Zara
+2005	best cinematographer colour	Christopher Popp	Lakshya
+2005	best sound recordist	Dwarak Warrier	Dhoom
+2005	best editor	Rameshwar Bhagat	Dhoom
+2005	best playback singer (male)	Kunal Ganjawala	Bheegey Honth Tere
+2005	best playback singer (female)	Alka Yagnik	Saanso Ko Sanso Mein
+2005	best lyricist	Javed Akhtar	Tere Liye
+2005	best dialogue	Aditya Chopra	Veer Zara
+2005	best art director colour	Sabu Cyril	Yuva
+2005	best actor in a comic role	Saif Ali Khan	Hum Tum
+2005	bst screenplay	Mani Ratnam	Yuva
+2005	critics award best film	Mani Ratnam	Yuva
+2005	best choreographer	Prabhu Deva	Main Aisa Kyon Hoon
+2005	best actor in a villainous role	Priyanka Chopra	Aitraaz
+2005	lifetime achievement award	Rajesh Khanna	
+2005	best action	Vikram Dharma	Yuva
+2005	best actor/actress critics award	Kareena Kapoor	Dev
+2005	r d burman award	Kunal Ganjawala	
+2005	best newcomer	Ayesha Takia	Taarzan
+2005	best background music	A.R. Rahman	Swades
+2005	filmfare-sony best scene award	Kunal Kohli	Hum Tum
+2005	filmfare power award	Shah Rukh Khan	
+2005	special awards	Naushad	
+2005	best film in 50 years special mention	Govind Nihalani	Dev
+2004	best film	Koi& Mil Gaya	Rakesh Roshan
+2004	best director	Rakesh Roshan	Koi& Mil Gaya
+2004	best actor	Hrithik Roshan	Koi& Mil Gaya
+2004	best actress	Preity Zinta	Kal Ho Naa Ho
+2004	best music director	Shankar-Ehsaan-Loy	
+2004	best actor in a supporting role	Saif Ali Khan	Kal Ho Naa Ho
+2004	best actress in a supporting role	Jaya Bachchan	Kal Ho Naa Ho
+2004	best story	Nagesh Kukunoor	3 Deewarein
+2004	best cinematographer colour	Aseem Bajaj	Chameli
+2004	best sound recordist	Dwarak Warrier	Bhoot
+2004	best editor	Shimit Amin	Bhoot
+2004	best playback singer (male)	Sonu Nigam	Kal Ho Naa Ho
+2004	best playback singer (female)	Shreya Ghosal	Jadu Hai Nasha Hai
+2004	best lyricist	Javed Akhtar	Kal Ho Naa Ho
+2004	best dialogue	Abbas Tyrewala	Munnabhai M.B.B.S
+2004	best art director colour	Muneesh Sappel	Pinjar
+2004	best actor in a comic role	Sanjay Dutt	Munnabhai M.B.B.S.
+2004	best screenplay	Rajkumar Hirani|Vidhu Vinod Chopra|Lajan Joseph Oommen	Munnabhai M.B.B.S
+2004	critics award best film	Munnbhai M.B.B.S	Rajkumar Hirani
+2004	best choreographer	Farah Khan	Idhar Chala
+2004	best actor in a villainous role	Irfan Khan	Haasil
+2004	filmfare-raj kapoor lifetime achievement award	Sulochana	
+2004	best action	Allan Amin	Qayamat
+2004	best actor/actress critics award	Urmila Matondkar	Bhoot
+2004	r d burman award	Vishal	Shekhar
+2004	best newcomer	Priyanka Chopra	Andaz
+2004	best background music	Wayne Sharp	Gangaajal
+2004	filmfare-sony best scene award	Yash Johar	Kal Ho Naa Ho
+2004	filmfare power award	Shah Rukh Khan	
+2004	filmfare-motolook award	Saif Ali Khan	Kal Ho Naa Ho
+2004	filmfare special performance award	Kareena Kapoor	Chameli
+2003	best film	Devdas	
+2003	best director	Sanjay Leela Bhansali	Devdas
+2003	best actor	Shahrukh Khan	Devdas
+2003	best actress	Aishwarya Rai	Devdas
+2003	best music director	A.R. Rahman	Saathiya
+2003	best actor in a supporting role	Vivek Oberoi	Company
+2003	best actress in a supporting role	Madhuri Dixit	Devdas
+2003	best story	Jaideep Sahni	Company
+2003	best cinematographer colour	Binod Pradhan	Devdas
+2003	best sound recordist	Arun Nambiar	Road
+2003	best editor	Chandan Arora	Company
+2003	best playback singer (male)	Sonu Nigam	Saathiya
+2003	best playback singer (female)	Kavita Krishnamoorthy & Shreya Ghosal	Dola Re
+2003	best lyricist	Gulzar	Saathiya
+2003	best dialogue	Jaideep Sahni	Company
+2003	best art director colour	Nitin Desai	Devdas
+2003	best actor in a comic role	Paresh Rawal	Awara Paagal Deewana
+2003	best screenplay	Mani Ratnam	Saathiya
+2003	critics award best film	The Legend Of Bhagat Singh	Rajkumar Santoshi
+2003	best choreographer	Saroj Khan	Dola Re
+2003	best actor in a villainous role	Ajay Devgan	Deewangee
+2003	filmfare-raj kapoor lifetime	Jeetendra	
+2003	achievement award	Rekha	
+2003	best action	Philiph Ko & Abbas Moghul	Awara Paagal Deewana
+2003	best actor/actress critics award	Rani Mukherjee	Saathiya
+2003	r d burman award	Shreya Ghoshal	Devdas
+2003	best newcomer	Esha Deol	"Koi Mere Dil Se Poochhe, Kyaa Dil Ne Kahaa, Na Tum Jaano Na Hum"
+2003	best background music	A.R. Rahman	The Legend Of Bhagat Singh
+2003	filmfare-sony best scene award	Sanjay Leela Bhansali	Devdas
+2003	filmfare-swiss consulate special award	Shah Rukh Khan	
+2003	filmfare-british government special award	Yash Johar	
+2002	best film	Lagaan	
+2002	best director	Ashutosh Gowariker	Lagaan
+2002	best actor	Aamir Khan	Lagaan
+2002	best actress	Kajol	Kabhi Khushi Kabhie Gham
+2002	best music director	A.R. Rahman	Lagaan
+2002	best actor in a supporting role	Akshaye Khanna	Dil Chahta Hai
+2002	best actress in a supporting role	Jaya Bachchan	Kabhi Khushi Kabhie Gham
+2002	best story	Ashutosh Gowariker	Lagaan
+2002	best cinematographer colour	Santosh Sivan	Asoka
+2002	best sound recordist	Rakesh Ranjan	Aks
+2002	best editor	A. Sreekar Prasad	Dil Chahta Hai
+2002	best playback singer (male)	Udit Narayan	Mitwa
+2002	best playback singer (female)	Alka Yagnik	O Re Chhori
+2002	best lyricist	Javed Akhtar	Mitwa
+2002	best dialogue	Karan Johar	Kahhi Khushi Kabhie Gham
+2002	best art director colour	Sharmishta Roy	Kabhi Khushi Kabhie Gham
+2002	best actor in a comic role	Saif Ali Khan	Dil Chahta Hai
+2002	best screenplay	Farhan Akhtar	Dil Chahta Hai
+2002	critics award best film	Dil Chahta Hai	Farhan Akhtar
+2002	best choreographer	Farah Khan	Woh Ladki Hai Kahan
+2002	best actor in a villainous role	Akshay Kumar	Ajnabee
+2002	filmfare-raj kapoor lifetime	Gulzar	
+2002	achievement award	Asha Parekh	
+2002	best action	Tinnu Verma	Gadar
+2002	best actor/actress critics award	Karisma Kapoor	Zubeidaa
+2002	special award	Raveena Tandon	
+2002	r d burman award	Shankar-Ehsaan-Loy	
+2002	best newcomer	Bipasha Basu	Ajnabee
+2002	best background music	Ranjit Barot	Aks
+2002	filmfare-sony best scene award	Karan Johar	Kabhi Khushi Kabhie Gham
+2002	filmfare-swiss tourism special award	Yash Chopra	
+2001	best film	Kaho Naa... Pyaar Hai	
+2001	best director	Rakesh Roshan	Kaho Naa... Pyaar Hai
+2001	best actor	Hrithik Roshan	Kaho Naa... Pyaar Hai
+2001	best actress	Karisma Kapoor	Fiza
+2001	best music director	Rajesh Roshan	Kaho Naa... Pyaar Hai
+2001	best actor in a supporting role	Amitabh Bachchan	Mohabbatein
+2001	best actress in a supporting role	Jaya Bachchan	Fiza
+2001	best story	Honey Irani	Kya Kehna
+2001	best cinematographer colour	Basheer Ali	Refugee
+2001	best sound recordist	Anuj Mathur	Mohabbatein
+2001	best editor	Sanjay Varma	Kaho Naa... Pyaar Hai
+2001	best playback singer (male)	Lucky Ali	Na Tum Jaano Na Hum
+2001	best playback singer (female)	Alka Yagnik	Dil Ne Yeh Kaha Hai Dil Se
+2001	best lyricist	Javed Akhtar	Panchhi Nadiyan
+2001	best dialogue	O.P. Dutta	Refugee
+2001	best art director colour	Sabu Cyril	Hey! Ram
+2001	best actor in a comic role	Paresh Rawal	Hera Pheri
+2001	best screenplay	Ravi Kapoor|Honey Irani	Kaho Naa... Pyaar Hai
+2001	critics award best film	Halo	Santosh Sivan
+2001	best choreographer	Farah Khan	Ek Pal Ka Jeena
+2001	best actor in a villainous role	Sunil Shetty	Dhadkan
+2001	filmfare-raj kapoor lifetime	Asha Bhosle	
+2001	achievement award	Feroz Khan	
+2001	best action	Allan Amin	Mission Kashmir
+2001	best actor/actress critics award	Tabu	Astitva
+2001	special award	Anu Malik	
+2001	r d burman award	Sunidhi Chauhan	
+2001	best newcomer	Kareena Kapoor	Refugee
+2001	best background music	Sandeep Chowtha	Jungle
+2001	filmfare-sony best scene award	Aditya Chopra	Mohabbatein
+2000	best film	Hum Dil De Chuke Sanam	
+2000	best director	Sanjay Leela Bhansali	Hum Dil De Chuke Sanam
+2000	best actor	Sanjay Dutt	Vaastav
+2000	best actress	Aishwarya Rai	Hum Dil De Chuke Sanam
+2000	best music director	A.R. Rahman	Taal
+2000	best actor in a supporting role	Anil Kapoor	Taal
+2000	best actress in a supporting role	Sushmita Sen	Biwi No.1
+2000	best story	Vinay Shukla	God Mother
+2000	best cinematographer colour	Kabir Lal	Taal
+2000	best sound recordist	Rakesh Ranjan	Taal
+2000	best editor	Jethu Mundal	Sarfarosh
+2000	best playback singer (male)	Udit Narayan	Chand Chhupa Badal Mein
+2000	best playback singer (female)	Alka Yagnik	Taal Se Taal Mila
+2000	best lyricist	Anand Bakshi	Ishq Bina Kya Jeena Yaaron
+2000	best dialogue	Hriday Lani|Pathik Vats	Sarfarosh
+2000	best art director colour	Nitin Desai	Hum Dil De Chuke Sanam
+2000	best actor in a comic role	Govinda	Haseena Maan Jaayegi
+2000	best documentary	Not Awarded	
+2000	best screenplay	John M. Matthan	Sarfarosh
+2000	critics award best film	Sarfarosh	John Mathew Matthan
+2000	sensational debut	Not Awarded	
+2000	best choreographer	Saroj Khan	Nimbooda Nimbooda
+2000	filmfare award on compleing 25 years in film acting	Not Awarded	
+2000	best actor in a villainous role	Ashutosh Rana	Sangharsh
+2000	outstanding performance in a non-commercial film	Not Awarded	
+2000	filmfare-raj kapoor lifetime	Vinod Khanna	
+2000	achievement award	Hema Malini	
+2000	best action	Tinnu Verma	Arjun Pandit
+2000	best performance critics award	Tabu	Hu Tu Tu
+2000	special award	Not Awarded	
+2000	r d burman award	Ismail Darbar	
+2000	best newcomer	Rahul Khanna Earth: 1947	
+2000	special veterans award	Not Awarded	
+2000	best background music	Anjan Biswas	Hum Dil De Chuke Sanam
+2000	award on the completion of 50 years of the r.k. banner	Not Awarded	
+2000	filmfare-sony best scene award	Mahesh Manjrekar	Vaastav
+2000	superstar of the millennium award	Amitabh Bachchan	1999
+1999	best film	Kuch Kuch Hota Hai	
+1999	best director	Karan Johar	Kuch Kuch Hota Hai
+1999	best actor	Shahrukh Khan	Kuch Kuch Hota Hai
+1999	best actress	Kajol	Kuch Kuch Hota Hai
+1999	best music director	A.R. Rahman	Dil Se
+1999	best actor in a supporting role	Salman Khan	Kuch Kuch Hota Hai
+1999	best actress in a supporting role	Rani Mukherjee	Kuch Kuch Hota Hai
+1999	best story	Mahesh Bhatt	Zakhm
+1999	best cinematographer colour	Santosh Sivan	Dil Se
+1999	best sound recordist	H. Sridhar	Satya
+1999	best editor	Apurva Asrani And Bhanu Daya	Satya
+1999	best playback singer (male)	Sukhwindera Singh	Chhaiyaan Chhaiyaan
+1999	best playback singer (female)	Jaspinder Narula	Pyaar To Hona Hi Tha
+1999	best lyricist	Gulzar	Chhaiyaan Chhaiyaan
+1999	best dialogue	Rajkumar Santoshi|K.K. Raina	China Gate
+1999	best art director colour	Sharmistha Roy	Kuch Kuch Hota Hai
+1999	best actor in a comic role	Johnny Lever	Dulhe Raja
+1999	best documentary	Not Awarded	
+1999	best screenplay	Karan Johar	Kuch Kuch Hota Hai
+1999	critics award best film	Satya	Ramgopal Varma
+1999	sensational debut	Not Awarded	
+1999	best choreographer	Farah Khan	Chhaiyan Chhaiyan
+1999	filmfare award on compleing 25 years in film acting	Not Awarded	
+1999	best actor in a villainous role	Ashutosh Rana	Dushman
+1999	outstanding performance in a non-commercial film	Not Awarded	
+1999	filmfare-raj kapoor lifetime	Manoj Kumar	
+1999	achievement award	Helen	
+1999	best action	Akbar Bakshi	Soldier
+1999	best performance critics award	Sehfali Chhaya	Satya
+1999	special award	Shekhar Kapur	
+1999	r d burman award	Kamaal Khan	
+1999	best newcomer	Preity Zinta	"Dil Se, Soldier"
+1999	special veterans award	Not Awarded	
+1999	best background music	Sandeep Chowtha	Satya
+1999	award on the completion of 50 years of the r.k. banner	Not Awarded	
+1999	filmfare-sony best scene award	Vikram Bhatt	Ghulam
+1998	best film	Dil To Pagal Hai	
+1998	best director	J.P. Dutta	Border
+1998	best actor	Shahrukh Khan	Dil To Pagal Hai
+1998	best actress	Madhuri Dixit	Dil To Pagal Hai
+1998	best music director	Uttam Singh	Dil To Pagal Hai
+1998	best actor in a supporting role	Amrish Puri	Virasat
+1998	best actress in a supporting role	Karisma Kapoor	Dil To Pagal Hai
+1998	best story	Kamal Haasan	Virasat
+1998	best cinematographer colour	Ravi K. Chandran	Virasat
+1998	best sound recordist	Vinod Potdar	Border
+1998	best editor	Rajiv Rai	Gupt
+1998	best playback singer (male)	Abhijeet	Main Koi Aisa Geet Gaoon
+1998	best playback singer (female)	Alka Yagnik	Meri Mehbooba
+1998	best lyricist	Javed Akhtar	Sandese Aate Hain
+1998	best dialogue	Aditya Chopra	Dil To Pagal Hai
+1998	best art director colour	Sharmishta Roy	Dil To Pagal Hai
+1998	best actor in a comic role	Johnny Lever	Deewana Mastana
+1998	best documentary	Not Awarded	
+1998	best screenplay	Subhash Ghai	Pardes
+1998	critics award best film	Virasat	Priyadarshan
+1998	sensational debut	Not Awarded	
+1998	best choreographer	Farah Khan	Dhol Bajne Laga
+1998	filmfare award on compleing 25 years in film acting	Rishi Kapoor	
+1998	best actor in a villainous role	Kajol	Gupt
+1998	outstanding performance in a non-commercial film	Not Awarded	
+1998	filmfare-raj kapoor lifetime achievement award	Sharmila Tagore	
+1998	best action	Bhiku Verma And Tinnu Verma	Border
+1998	best performance critics award	Tabu	Virasat
+1998	special award	Jaya Bachchan	
+1998	r d burman award	Karthik Raja	
+1998	best newcomer	Mahima Chaudhary	Pardes
+1998	special veterans award	Pran	
+1998	best background music	Viju Shah	Gupt
+1998	award on the completion of 50 years of the r.k. banner	Rajiv Kapoor	
+1997	best film	Raja Hindustani	
+1997	best director	Shekhar Kapur	Bandit Queen
+1997	best actor	Aamir Khan	Raja Hindustani
+1997	best actress	Karisma Kapoor	Raja Hindustani
+1997	best music director	Nadeem-Shravan	
+1997	best actor in a supporting role	Amrish Puri	Ghatak
+1997	best actress in a supporting role	Rekha	Khiladiyon Ka Khiladi
+1997	best story	Gulzar	Maachis
+1997	best cinematographer colour	Ashok Mehta	Bandit Queen
+1997	best sound recordist	Jitendra Chaudhury	Khamoshi: The Musical
+1997	best editor	V.N. Mayekar	Ghatak
+1997	best playback singer (male)	Udit Narayan	Pardesi Pardesi
+1997	best playback singer (female)	Kavita Krishnamoorthy	Aaj Main Upar
+1997	best lyricist	Javed Akhtar	Ghar Se Nikalte Hi
+1997	best dialogue	Gulzar	Maachis
+1997	best art director colour	Nitin Desai	Khamoshi: The Musical
+1997	best actor in a comic role	Satish Kaushik	Saajan Chale Sasural
+1997	best documentary	Goutam Ghose	Beyond The Himalayas
+1997	best screenplay	Rajkumar Santoshi	Ghatak
+1997	critics award best film	Khamoshi: The Musical	Sanjay Leela Bhansali
+1997	sensational debut	Not Awarded	
+1997	best choreographer	Chinni Prakash	Shaher Ki Ladki
+1997	filmfare award on compleing 25 years in film acting	Not Awarded	
+1997	best actor in a villainous role	Arbaaz Khan	Daraar
+1997	outstanding performance in a non-commercial film	Not Awarded	
+1997	filmfare-raj kapoor lifetime	Mumtaz	
+1997	achievement award	Dharmendra	
+1997	best action	Akbar Bakshi	Khiladiyon Ka Khiladi
+1997	best performance critics award	Manisha Koirala	Khamoshi: The Musical
+1997	special award	Govinda	
+1997	r d burman award	Vishal Bharadwaj	
+1997	best newcomer	Chandrachur Singh	"Maachis, Tere Mere Sapne"
+1996	best film	Dilwale Dulhania Le Jayenge	
+1996	best director	Aditya Chopra	Dilwale Dulhania Le Jayenge
+1996	best actor	Shahrukh Khan	Dilwale Dulhania Le Jayenge
+1996	best actress	Kajol	Dilwale Dulhania Le Jayenge
+1996	best music director	A.R. Rahman	Rangeela
+1996	best actor in a supporting role	Jackie Shroff	Rangeela
+1996	best actress in a supporting role	Farida Jalal	Dilwale Dulhania Le Jayenge
+1996	best story	Ram Gopal Varma	Rangeela
+1996	best cinematographer colour	Santosh Sivan	Barsaat
+1996	best sound recordist	Rakesh Ranjan	Barsaat
+1996	best editor	Sanjay Varma	Karan Arjun
+1996	best playback singer (male)	Udit Narayan	Mehndi Lagake Rakhna
+1996	best playback singer (female)	Kavita Krishnamoorthy	Mera Piya Ghar Aaya
+1996	best lyricist	Anand Bakshi	Tujhe Dekha
+1996	best dialogue	Aditya Chopra|Javed Siddique	Dilwale Dulhania Le Jayenge
+1996	best art director colour	Bijon Das Gupta	Prem
+1996	best actor in a comic role	Anupam Kher	Dilwale Dulhania Le Jayenge
+1996	best documentary	A Narmada Diary	Anand Patwardhan & Simantini Dhuru
+1996	best screenplay	Aditya Chopra	Dilwale Dulhania Le Jayenge
+1996	critics award best film	Bombay	Mani Ratnam
+1996	sensational debut	Not Awarded	
+1996	best choreographer	Ahmed Khan	Rangeela Re
+1996	filmfare award on compleing 25 years in film acting	Not Awarded	
+1996	filmfare-raj kapoor lifetime achievement award	Vyjayanthimala	
+1996	best actor in a villainous role	Mithun Chakraborty	Jallad
+1996	outstanding performance in a non-commercial film	Not Awarded	
+1996	best action	Bhiku Varma	Karan Arjun
+1996	best performance critics award	Manisha Koirala	Bombay
+1996	special award	Asha Bhosle	
+1996	r d burman award	Mehboob	
+1996	best costume designer	Manish Mlhotra	Rangeela
+1996	best newcomer male	Bobby Deol	Barsaat
+1996	best newcomer female	Twinkle Khanna	Barsaat
+1995	best film	Hum Aapke Hain Koun..!	
+1995	best director	Sooraj Barjatya	Hum Aapke Hain Koun..!
+1995	best actor	Nana Patekar	Krantiveer
+1995	best actress	Madhuri Dixit	Hum Aapke Hain Koun..!
+1995	best music director	R.D. Burman	1942 A Love Story
+1995	best actor in a supporting role	Jackie Shroff	1942 A Love Story
+1995	best actress in a supporting role	Dimple Kapadia	Krantiveer
+1995	best story	K.K. Singh	Krantiveer
+1995	best cinematographer colour	Binod Pradhan	1942 A Love Story
+1995	best sound recordist	Jitendra Chaudhary/Namita Nayak	1942 A Love Story
+1995	best editor	Renu Saluja	1942 A Love Story
+1995	best playback singer (male)	Kumar Sanu	Ek Ladki Ko Dekha
+1995	best playback singer (female)	Kavita Krishnamoorty	Pyar Hua Chupke Se
+1995	best lyricist	Javed Akhtar	Ek Ladki Ko Dekha
+1995	best dialogue	K.K. Singh	Krantiveer
+1995	best art director colour	Nitin Desai	1942 A Love Story
+1995	best actor in a comic role	Shakti Kapoor	Raja Babu
+1995	best documentary	Manzar	Gopi Desai
+1995	best screenplay	Sooraj Barjatya	Hum Aapke Hain Koun..!
+1995	critics award best film	Bandit Queen	Shekhar Kapur
+1995	sensational debut	Sonali Bendre	Naaraz
+1995	best choreographer	Chinni Prakash	Tu Cheez Badi Hai
+1995	filmfare award on compleing 25 years in film acting	Not Awarded	
+1995	best actor in a villainous role	Shah Rukh Khan	Anjaam
+1995	outstanding performance in a non-commercial film	Not Awarded	
+1995	filmfare-raj kapoor lifetime	Shammi Kapoor	
+1995	achievement award	Waheeda Rehman	
+1995	best action	Ravi Dewan	Anth
+1995	best performance critics award	Farida Jalal	Mammo
+1995	special award	Lata Mangeshkar	
+1995	r d burman award	A.R. Rahman	
+1994	best film	Hum Hain Rahi Pyar Ke	
+1994	best director	Rajkumar Santoshi	Damini
+1994	best actor	Shahrukh Khan	Baazigar
+1994	best actress	Juhi Chawla	Hum Hain Rahi Pyar Ke
+1994	best music director	Anu Malik	Baazigar
+1994	best actor in a supporting role	Sunny Deol	Damini
+1994	best actress in a supporting role	Amrita Singh	Aaina
+1994	best story	Sutanu Gupta	Damini
+1994	best cinematographer colour	Manmohan Singh	Darr
+1994	best sound recordist	Rakesh Ranjan	Damini
+1994	best playback singer (male)	Kumar Sanu	Yeh Kaali Kaali Aankhen
+1994	best playback singer (female)	Ila Arun/Alka Yagnik	Choli Ke Peechhe Kya Hai
+1994	best lyricist	Sameer	Ghunghat Ki Aad Se
+1994	best dialogue	Prof. Jay Dixit	Sir
+1994	best art director colour	Saboo Syril	Gardish
+1994	best actor in a comic role	Anupam Kher	Darr
+1994	best documentary	I Live In Behrampada	Madhushree Datta
+1994	best screenplay	Robin Bhatt|Javed Siddique|Akash Khurana	Baazigar
+1994	critics award best film	Kabhi Haan Kabhi Naa	Kundan Shah
+1994	sensational debut	Mamta Kulkarni	Ashique Awara
+1994	best choreographer	Saroj Khan	Choli Ke Peechhe
+1994	filmfare award on compleing 25 years in film acting	Not Awarded	
+1994	filmfare-raj kapoor lifetime achievement award	Lata Mangeshkar	
+1994	best actor in villainous role	Paresh Rawal	Sir
+1994	outstanding performance in a non-commercial film	Not Awarded	
+1994	best action	Tyagarajan	Gardish
+1994	best performance critics award	Shah Rukh Khan	Kabhi Haan Kabhi Naa
+1993	best film	Jo Jeeta Wohi Sikandar	
+1993	best director	Mukul Anand	Khuda Gawah
+1993	best actor	Anil Kapoor	Beta
+1993	best actress	Madhuri Dixit	Beta
+1993	best music director	Nadeem-Shravan	
+1993	best actor in a supporting role	Danny Dengzongpa	Khuda Gawah
+1993	best actress in a supporting role	Aruna Irani	Beta
+1993	best story	Not Awarded	
+1993	best cinematographer colour	S.Kumar	Muskurahat
+1993	best sound recordist	Bhagat Singh Rathod And Kuldeep Sood	Khuda Gawah
+1993	best editor	Zafar Sultan And Dilip Katalgi	Jo Jeeta Wohi Sikandar
+1993	best playback singer (male)	Kumar Sanu	Sochenge Tumhe
+1993	best playback singer (female)	Anuradha Paudwal	Dhak Dhak Karne Laga
+1993	best lyricist	Sameer	Teri Umeed Tera Intezar
+1993	best dialogue	Kader Khan	Angaar
+1993	best art director colour	R. Varman	Angaar
+1993	best actor in a comic role	Anupam Kher	Khel
+1993	best documentary	All In The Family	Ketan Mehta
+1993	best screenplay	Manoj Lalwani|Aziz Mirza	Raju Ban Gaya Gentleman
+1993	critics award best film	Idiot	Mani Kaul
+1993	sensational debut	Divya Bharati	Deewane
+1993	best choreographer	Saroj Khan	Dhak Dhak
+1993	filmfare award on compleing 25 years in film acting	Not Awarded	
+1993	filmfare-raj kapoor lifetime achievement award	Dev Anand	
+1993	best actor in a villainour role	Nana Patekar	Angaar
+1993	outstanding performance in a non-commercial film	Not Awarded	
+1993	best action	Tinnu Verma	Khuda Gawah
+1993	best performance critics award	Dimple Kapadia	Rudaali
+1992	best film	Lamhe	
+1992	best director	Subhash Ghai	Saudagar
+1992	best actor	Amitabh Bachchan	Hum
+1992	best actress	Sridevi	Lamhe
+1992	best music director	Nadeem-Shravan	
+1992	best actor in a supporting role	Danny Dengzongpa	Sanam Bewafa
+1992	best actress in a supporting role	Farida Jalal	Henna
+1992	best story	Honey Irani	Lamhe
+1992	best cinematographer colour	Radhu Karmakar	Henna
+1992	best sound recordist	S.C. Bhambri	Patthar Ke Insaan
+1992	best editor	Guru Dutt Shirali & Waman Bhosle	Saudagar
+1992	best playback singer (male)	Kumar Sanu	Mera Dil Bhi
+1992	best playback singer (female)	Anuradha Paudwal	Dil Hai Ke Manta Nahin
+1992	best lyricist	Gulzar	Yaara Seeli Seeli
+1992	best dialogue	Dr Rahi Mazoom Reza	Lamhe
+1992	best art director colour	R. Varman	Hum
+1992	best actor in a comic role	Anupam Kher	Lamhe
+1992	best documentary	Raam Ke Naam	Anand Patwardhan
+1992	best screenplay	Tapan Sinha	Ek Doctor Ki Maut
+1992	critics award best film	Diksha	Arun Kaul
+1992	filmfare award on completing 25	Not Awarded	
+1992	sensational debut	Raveena Tandon	Patthar Ke Phool
+1992	best choreographer	Chinni Prakash	Jumma Chumma
+1992	best actor in a villainous role	Sadashiv Amrapurkar	Sadak
+1992	outstanding performance in a non-commercial film	Dimple Kapadia	Drishti
+1992	best action	Veeru Devgan	Phool Aur Kaante
+1991	best film	Ghayal	
+1991	best director	Rajkumar Santoshi	Ghayal
+1991	best actor	Sunny Deol	Ghayal
+1991	best actress	Madhuri Dixit	Dil
+1991	best music director	Nadeem-Shravan	
+1991	best actor in a supporting role	Mithun Chakraborty	Agneepath
+1991	best actress in a supporting role	Rohini Hattangady	Agneepath
+1991	best story	Rajkumar Santoshi	Ghayal
+1991	best cinematographer colour	Rajan Kothari	Ghayal
+1991	best sound recordist	E. Rudra	Azaad Desh Ke Ghulam
+1991	best editor	V.N. Mayekar	Ghayal
+1991	best playback singer (male)	Kumar Sanu	Ab Tere Bin
+1991	best playback singer (female)	Anuradha Paudwal	Nazar Ke Samne
+1991	best lyricist	Sameer	Nazar Ke Samne
+1991	best dialogue	Suraj Sanim	Daddy
+1991	best art director colour	Nitish Roy	Ghayal
+1991	best actor in a comic role	Kader Khan	Baap Numbri Beta Dus Numbri
+1991	best documentary	Amjad Ali Khan	Gulzar
+1991	best screenplay	Basu Chatterji	Kamla Ki Maut
+1991	critics award best film	Kasba	Kumar Shahani
+1991	sensational debut	Pooja Bhatt	Daddy
+1991	best choreographer	Saroj Khan	Hum Ko Aaj Kal Hai
+1991	filmfare award on completing 25 years in film acting	Not Awarded	
+1991	filmfare-raj kapoor lifetime achievement award	Ambitabh Bachchan	
+1991	outstanding performance in a non-commercial film	Anupam Kher	Daddy
+1990	best film	Maine Pyar Kiya	
+1990	best director	Vidhoo Vinod Chopra	Parinda
+1990	best actor	Jackie Shroff	Parinda
+1990	best actress	Sridevi	Chaalbaaz
+1990	best music director	Raamlaxman	Maine Pyar Kiya
+1990	best actor in a supporting role	Nana Patekar	Parinda
+1990	best actress in a supporting role	Raakhee	Ram Lakhan
+1990	best story	K. Vishwanath	Eeshwar
+1990	best cinematographer colour	Manmohan Singh	Chandni
+1990	best sound recordist	B.V. Chaturvedi	Tridev
+1990	best editor	Renu Saluja	Parinda
+1990	best playback singer (male)	S.P. Balasubramaniam	Dil Deewana Bin Sajna Ke
+1990	best playback singer (female)	Sapna Mukherjee	"Oye Oye, Tirchhi Topiwale"
+1990	best lyricist	Asad Bhopali	Dil Deewana Bin Sajna Ke
+1990	best dialogue	Javed Akhtar	Main Azaad Hoon
+1990	best art director colour	Not Awarded	
+1990	best actor in a comic role	Anupam Kher And Satish Kaushik	Ram Lakhan
+1990	best documentary	Not Awarded	
+1990	best screenplay	Shivkumar Subramaniam|Vinod Chopra	Parinda
+1990	critics award best film	Khayal Gatha	Kumar Shahani
+1990	sensational debut	Bhagyashree	Maine Pyaar Kiya
+1990	best choreographer	Saroj Khan	Na Jaane Kahan Se
+1990	filmfare award on completing 25years in film acting	Rajesh Khanna	
+1989	best film	Qayamat Se Qayamat Tak	
+1989	best director	Mansoor Khan	Qayamat Se Qayamat Tak
+1989	best actor	Anil Kapoor	1988Tezaab
+1989	best actress	Rekha	Khoon Bhari Maang
+1989	best music director	Anand	Milind
+1989	best actor in a supporting role	Anupam Kher	Vijay
+1989	best actress in a supporting role	Sonu Walia	Khoon Bhari Maang
+1989	best story	Subodh Ghosh	Ijaazat
+1989	best cinematographer colour	Kiran Deohans	Qayamat Se Qayamat Tak
+1989	best sound recordist	J.P. Sehgal	Hatya
+1989	best editor	Sanjay Varma	Khoon Bhari Maang
+1989	best playback singer (male)	Udit Narayan	Papa Kehte Hain
+1989	best playback singer (female)	Alka Yagnik	Ek Do Teen
+1989	best lyricist	Gulzar	Mera Kuchh Saaman
+1989	best dialogue	Kamlesh Pandey	Tezaab
+1989	best art director colour	Liladhar S. Sawant	Hatya
+1989	best actor in a comic role	Not Awarded	
+1989	best documentary	Siddeswari	Mani Kaul
+1989	best screenplay	Nasir Husain	Qayamat Se Qayamat Tak
+1989	critics award best film	Om	Dar
+1989	sensational debut	Aamir Khan	Qayamat Se Qayamat Tak
+1989	best choreographer	Saroj Khan	Ek Do Teen
+1986	best film	Ram Teri Ganga Maili	
+1986	best director	Raj Kapoor	Ram Teri Ganga Maili
+1986	best actor	Kamal Haasan	Saagar
+1986	best actress	Dimple Kapadia	Saagar
+1986	best music director	Ravindra Jain	Ram Teri Ganga Maili
+1986	best actor in a supporting role	Amrish Puri	Meri Jung
+1986	best actress in a supporting role	Nutan	Meri Jung
+1986	best story	Dr. Aleem Masroor	Tawaif
+1986	best cinematographer colour	S.M. Anwar	Saagar
+1986	best sound recordist	A. Radha Swamy	Shiva Ka Insaaf
+1986	best editor	Raj Kapoor	Ram Teri Ganga Maili
+1986	best playback singer (male)	Kishore Kumar	Saagar Kinare
+1986	best playback singer (female)	Anuradha Paudwal	Mere Man Baje Mridang
+1986	best lyricist	Vasant Dev	Dil Kyon Bekha
+1986	best dialogue	Dr Rahi Masoom Reza	Tawaif
+1986	best art director colour	Suresh J. Sawant	Ram Teri Ganga Maili
+1986	best actor in a comic role	Amjad Khan	Maa Kasam
+1986	best documentary	Bombay Our City	Anand Patwardhan
+1986	best screenplay	Goutam Ghose|Partho Mukherji	Paar
+1986	critics award best film	Aaghat	Govind Nihalani
+1985	best film	Sparsh	
+1985	best director	Sai Paranjpye	Sparsh
+1985	best actor	Anupam Kher	Saaransh
+1985	best actress	Shabana Azmi	Bhavna
+1985	best music director	Bappi Lahiri	Sharabi
+1985	best actor in a supporting role	Anil Kapoor	Mashaal
+1985	best actress in a supporting role	Aruna Irani	Pet Pyar Aur Paap
+1985	best story	Mahesh Bhatt	Saaransh
+1985	best cinematographer colour	P.L. Raj	Jaag Utha Insaan
+1985	best sound recordist	Brahmanand Sharma	Sohni Mahiwal
+1985	best editor	M.S. Shinde	Sohni Mahiwal
+1985	best playback singer (male)	Kishore Kumar	Manzilein Apni Jagah
+1985	best playback singer (female)	Anupama Deshpande	Sohni Chanab Di
+1985	best lyricist	Hasan Kamal	Aaj Ki Awaz
+1985	best dialogue	Sai Paranjpye	Sparsh
+1985	best art director colour	Madhukar Shinde	Saaransh
+1985	best actor in a comic role	Ravi Baswani	Jaane Bhi Do Yaaron
+1985	best documentary	Charakku	Om Prakash Sharma
+1985	best screenplay	Mrinal Sen	Khandhar
+1985	critics award best film	Damul	Prakash Jha
+1984	best film	Ardh Satya	
+1984	best director	Govind Nihalani	Ardh Satya
+1984	best actor	Naseeruddin Shah	Masoom
+1984	best actress	Shabana Azmi	Arth
+1984	best music director	R.D. Burman	Masoom
+1984	best actor in a supporting role	Sadashiv Amrapurkar	Ardh Satya
+1984	best actress in a supporting role	Rohini Hattangadi	Arth
+1984	best story	S.D. Panwalkar	Ardh Satya
+1984	best cinematographer colour	Govind Nihalani	Vijeta
+1984	best sound recordist	Hitendra Ghosh	Vijeta
+1984	best editor	Keshav Naidu	Vijeta
+1984	best playback singer (male)	Kishore Kumar	Agar Tum Na Hote
+1984	best playback singer (female)	Arati Mukherji	Do Naina Ek Kahani
+1984	best lyricist	Gulzar	Tujh Se Naraaz Nahin
+1984	best dialogue	Mahesh Bhatt	Arth
+1984	best art director colour	N.B. Kulkarni	Razia Sultan
+1984	best actor in a comic role	Ravi Baswani	Jaane Bhi Do Yaaron
+1984	best documentary	Veer Savarkar	Prem Vaidya
+1984	best screenplay	Vijay Tendulkar	Ardh Satya
+1984	critics award best film	Sookha	M.S. Sathyu
+1983	best film	Shakti	
+1983	best director	Raj Kapoor	Prem Rog
+1983	best actor	Dilip Kumar	Shakti
+1983	best actress	Padmini Kolhapure	Prem Rog
+1983	best music director	R.D. Burman	Sanam Teri Kasam
+1983	best actor in a supporting role	Shammi Kapoor	Vidhaata
+1983	best actress in a supporting role	Supriya Pathak	Bazaar
+1983	best story	Samaresh Basu	Namkeen
+1983	best cinematographer colour	Jaywant Pathare	Bemisal
+1983	best sound recordist	P. Harikishan	Shakti
+1983	best editor	Raj Kapoor	Prem Rog
+1983	best playback singer (male)	Kishore Kumar	Pag Ghungroo Bandh
+1983	best playback singer (female)	Salma Agha	Dil Ke Armaan
+1983	best lyricist	Santosh Anand	Mohabbat Hai Kya Cheez
+1983	best dialogue	Achla Nagar	Nikaah
+1983	best art director colour	Ajit Banerjee	Namkeen
+1983	best actor in a comic role	Deven Varma	Angoor
+1983	best documentary	Experience India	Zafar Hai
+1983	best screenplay	Salim	Javed
+1983	critics award best film	Masoom	Shekhar Kapur
+1982	best film	Kalyug	
+1982	best director	Muzaffar Ali	Umrao Jaan
+1982	best actor	Naseeruddin Shah	Chakra
+1982	best actress	Smita Patil	Chakra
+1982	best music director	Khayyam	Umrao Jaan
+1982	best actor in a supporting role	Amjad Khan	Yaarana
+1982	best actress in a supporting role	Supriya Pathak	Kalyug
+1982	best story	Chetan Anand	Kudrat
+1982	best cinematographer colour	Jal Mistry	Kudrat
+1982	best sound recordist	Hitendra Ghosh	Kalyug
+1982	best editor	K.R. Kitoo	Ek Duuje Ke Liye
+1982	best playback singer (male)	Amit Kumar	Teri Yaad Aa Rahi Hai
+1982	best playback singer (female)	Parveen Sultana	Hume Tumse Pyar Kitna
+1982	best lyricist	Anand Bakshi	Tere Mere Beech Mein
+1982	best dialogue	Kadar Khan	Meri Aawaz Suno
+1982	best art director colour	Bansi Chandragupta	Chakra
+1982	best actor in a comic role	Utpal Dutt	Naram Garam
+1982	best documentary	Faces After The Storm	Prakash Jha
+1982	best screenplay	K. Balachander	Ek Duuje Ke Liye
+1982	critics award best film	Aadharshila	Ashok Ahuja
+1981	best film	Khubsoorat	
+1981	best director	Govind Nihalani	Aakrosh
+1981	best actor	Naseeruddin Shah	Aakrosh
+1981	best actress	Rekha	Khubsoorat
+1981	best music director	Laxmikant	Pyarelal
+1981	best actor in a supporting role	Om Puri	Aakrosh
+1981	best actress in a supporting role	Padmini Kolhapure	Insaf Ka Tarazu
+1981	best story	Vijay Tendulkar	Aakrosh
+1981	best cinematographer colour	S.M. Anwar	Shaan
+1981	best sound recordist	P. Harikishan	Qurbani
+1981	best editor	S.B. Mane	Insaf Ka Tarazu
+1981	best playback singer (male)	Kishore Kumar	Hazaar Rahen Mudke Dekhin
+1981	best playback singer (female)	Nazia Hassan	Aap Jaisa Koi
+1981	best lyricist	Gulzar	Hazaar Rahen Mudke Dekhin
+1981	best dialogue	Shabd Kumar	Insaf Ka Tarazu
+1981	best art director colour	C.S. Bhati	Aakrosh
+1981	best actor in a comic role	Utpal Dutt	Naram Garam
+1981	best documentary	They Call Me Chamar	Loksen Lalvani
+1981	best screenplay	Vijay Tendulkar	Aakrosh
+1981	critics award best film	Albert Pinto Ko Gussa Kyon Aata Hai	Saeed Mirza
+1980	best film	Junoon	
+1980	best director	Shyam Benegal	Junoon
+1980	best actor	Amol Palekar	Gol Maal
+1980	best actress	Jaya Bhaduri	Nauker
+1980	best music director	Laxmikant	Pyarelal
+1980	best actor in a supporting role	Amjad Khan	Dada
+1980	best actress in a supporting role	Helen	Lahu Ke Do Rang
+1980	best story	Shanker Shesh	Doooriyan
+1980	best cinematographer colour	Govind Nihalani	Junoon
+1980	best sound recordist	Hitendra Ghosh	Junoon
+1980	best editor	Divkar Bhanudas	Junoon
+1980	best playback singer (male)	Yesudas	Dil Ke Tukde Tukde
+1980	best playback singer (female)	Vani Jairam	Mere To Giridhar Gopal
+1980	best lyricist	Gulzar	Aanewala Pal
+1980	best dialogue	Satyadev Dubey	Junoon
+1980	best art director colour	Madhukar Shinde	Lahu Ke Do Rang
+1980	best actor in a comic role	Utpal Dutt	Golmaal
+1980	best documentary	Malfunction	Pankuj Parashar
+1980	best screenplay	Girish Karnad|B.V. Karanth	Godhuli
+1980	critics award best film	Jeena Yahan	Basu Chatterji
+1979	best film	Main Tulsi Tere Aangan Ki	
+1979	best director	Satyajit Ray	Shatranj Ke Khilari
+1979	best actor	Amitabh Bachchan	Don
+1979	best actress	Nutan	Main Tulsi Tere Aangan Ki
+1979	best music director	Laxmikant	Pyarelal
+1979	best actor in a supporting role	Saeed Jaffrey	Shatranj Ke Khilari
+1979	best actress in a supporting role	Reena Roy	Apnapan
+1979	best story	Dinesh Thakur	Ghar
+1979	best cinematographer colour	Radhu Karmakar	Satyam Shivam Sundaram
+1979	best sound recordist	Ranjit Biswas	Devata
+1979	best editor	B. Prasad	Badalte Rishtey
+1979	best playback singer (male)	Kishore Kumar	O Khaike Paan Banaraswala
+1979	best playback singer (female)	Asha Bhosle	Ye Mera Dil Pyar Ka Deewana
+1979	best lyricist	Anand Bakshi	Aadmi Musafir Hai
+1979	best dialogue	Dr Rahi Masoom Reza	Main Tulsi Tere Aangan Ki
+1979	best art director colour	T.K. Desai	Des Pardes
+1979	best actor in a comic role	Deven Varma	Chor Ke Ghar Chor
+1979	best documentary	Not Awarded	
+1979	best screenplay	Kamleshwar	Pati Patni Aur Woh
+1979	critics award best film	Arvind Desai Ki Ajeeb Dastan	Saeed Mirza
+1978	best film	Bhumika	
+1978	best director	Basu Chatterji	Swami
+1978	best actor	Amitabh Bachchan	Amar Akbar Anthony
+1978	best actress	Shabana Azmi	Swami
+1978	best music director	Laxmikant	Pyarelal
+1978	best actor in a supporting role	Shreeram Lagoo	Gharaonda
+1978	best actress in a supporting role	Asha Sachdev	Priyatama
+1978	best story	Sarat Chandra	Swami
+1978	best cinematographer colour	Munir Khan	Hum Kisise Kum Nahin
+1978	best sound recordist	Dinshaw Billimoria	Agent Vinod
+1978	best editor	Kamlakar Karkhanis	Amar Akbar Anthony
+1978	best playback singer (male)	Mohammed Rafi	Kya Hua Tera Vada
+1978	best playback singer (female)	Preeti Sagar	Mere Gaon Kadhapaane Varo Paane
+1978	best lyricist	Gulzar	Do Deewane Shaher Mein
+1978	best dialogue	Vrajendra Gaur	Dulhan Wohi Jo Piya Man Bhaye
+1978	best art director colour	Shanti Das	Hum Kisise Kum Nahin
+1978	best actor in a comic role	Deven Varma	Chor Ke Ghar Chor
+1978	best documentary	Transformations	Zafar Hai
+1978	best screenplay	Lekh Tandon|Vrajendra Gaur|Madhusudan Kalekar	Dulhan Wohi Jo Piya Man Bhaye
+1978	critics award best film	Shatranj Ke Khilari	Satyajit Ray
+1977	best film	Mausam	
+1977	best director	Gulzar	Mausam
+1977	best actor	Sanjeev Kumar	Arjun Pandit
+1977	best actress	Raakhee	Tapasya
+1977	best music director	Khayyam	Kabhi Kabhie
+1977	best actor in a supporting role	Prem Chopra	Do Anjaane
+1977	best actress in a supporting role	Kajri	Balika Badhu
+1977	best story	Dr. Balaichand Mukherjee	Arjun Pandit
+1977	best cinem*atographer colour	Fali Mistry	Fakira
+1977	best sound recordist	P. Harikishan	Bairaag
+1977	best editor	Bijoy Chowdhury	Balika Badhu
+1977	best playback singer (male)	Mukesh	Kabhi Kabhie Mere Dil Mein
+1977	best playback singer (female)	Hemlata	Tujo Mere Sur Mein
+1977	best lyricist	Sahir Ludhianvi	Kabhi Kabhie Mere Dil Mein
+1977	best dialogue	Sagar Sarhadi	Kabhi Kabhie
+1977	best art director colour	S.S. Samel	Fakira
+1977	best actor in a comic role	Asrani	Balika Badhu
+1977	best documentary	Marvel Of Memory	N.K. Issar
+1977	best screenplay	Basu Chatterji	Chhotisi Baat
+1977	critics award best film	Mrigaya	Mrinal Sen
+1976	best film	Deewaar	
+1976	best director	Yash Chopra	Deewaar
+1976	best actor	Sanjeev Kumar	Aandhi
+1976	best actress	Lakshmi	Julie
+1976	best music director	Rajesh Roshan	Julie
+1976	best actor in a supporting role	Shashi Kapoor	Deewaar
+1976	best actress in a supporting role	Nadira	Julie
+1976	best story	Salim	Javed
+1976	best cinematographer colour	Kamal Bose	Dharmatma
+1976	best sound recordist	M.A. Shaikh	Deewaar
+1976	best editor	M.S. Shinde	Sholay
+1976	best playback singer (male)	Kishore Kumar	Dil Aisa Kisine Mera Toda
+1976	best playback singer (female)	Sulakshana Pandit	Tuhi Sagar Hai
+1976	best lyricist	Indivar	Dil Aisa Kisine Mera Toda
+1976	best dialogue	Salim	Javed
+1976	best art director colour	Bansi Chandragupta	Do Jhoot
+1976	best actor in a comic role	Deven Varma	Chori Mera Kaam
+1976	best documentary	Sarojini Naidu	B.D. Garga
+1976	best screenplay	Salim	Javed
+1976	critics award best film	Aandhi	Gulzar
+1975	best film	Rajnigandha	
+1975	best director	Manoj Kumar	Roti Kapada Aur Makaan
+1975	best actor	Rajesh Khanna	Aavishkar
+1975	best actress	Jaya Bhaduri	Kora Kaagaz
+1975	best music director	Kalyanji	Anandji
+1975	best actor in a supporting role	Vinod Khanna	Haath Ki Safai
+1975	best actress in a supporting role	Durga Khote	Bidaai
+1975	best story	Ismat Chugtai|Kaifi Azmi	Garm Hava
+1975	best cinematographer colour	A. Vincent	Prem Nagar
+1975	best sound recordist	L.H. Bhatia	Amir Garib
+1975	best editor	Kamlakar Karkhanis	Roti
+1975	best playback singer (male)	Mahendra Kapoor	Nahin Nahin Bas Aur Nahin
+1975	best playback singer (female)	Asha Bhosle	Chain Se Humko Kahin
+1975	best lyricist	Santosh Anand	Main Na Bhulunga
+1975	best dialogue	Kaifi Azmi	Garm Hava
+1975	best art director colour	Sudhendu Roy	Sagina
+1975	best actor in a comic role	Mehmood	Vardaan
+1975	best documentary	The Nomad Puppeteer	Mani Kaul
+1975	best screenplay	Shama Zaidi|Kaifi Azmi	Garm Hava
+1975	critics award best film	Rajnigandha	Basu Chatterji
+1974	best film	Anuraag	
+1974	best director	Yash Chopra	Daag
+1974	best actor	Rishi Kapoor	Bobby
+1974	best actress	Jaya Bhaduri	Abhimaan
+1974	best music director	S.D. Burman	Abhimaan
+1974	best actor in a supporting role	Amitabh Bachchan	Namak Haraam
+1974	best actress in a supporting role	Raakhee	Daag
+1974	best story	Salim	Javed
+1974	best cinematographer colour	Jal Mistry	Jheel Ke Us Paar
+1974	best sound recordist	Allauddin	Bobby
+1974	best editor	R. Mahadik	Zanjeer
+1974	best playback singer (male)	Narendra Chanchal	Beshak Mandir Masjid
+1974	best playback singer (female)	Asha Bhosle	Hone Lagi Hai Raat Jawan
+1974	best lyricist	Gulshan Bawra	Yaari Hai Imaan Mera
+1974	best dialogue	Gulzar	Namak Haraam
+1974	best art director colour	A. Rangaraj	Bobby
+1974	best actor in a comic role	Asrani	Aaj Ki Taaza Khabar
+1974	best documentary	A Day With The Builders	C.J.Paulose
+1974	best screenplay	Salim	Javed
+1974	critics award best film	Duvidha	Mani Kaul
+1973	best film	Be	Imaan
+1973	best director	Sohanlal Kanwar	Be
+1973	best actor	Manoj Kumar	Be
+1973	best actress	Hema Malini	Seeta Aur Geeta
+1973	best music director	Shanker	Jaikishen
+1973	best actor in a supporting role	Pran	Be
+1973	best actress in a supporting role	Zeenat Aman	Hare Rama Hare Krishna
+1973	best story	Basu Bhattacharya	Anubhav
+1973	best cinematographer colour	P. Vaikunth	Seeta Aur Geeta
+1973	best sound recordist	Jehangir Nowroji	Amar Prem
+1973	best editor	Manoj Kumar	Shor
+1973	best playback singer (male)	Mukesh	Jai Bolo
+1973	best playback singer (female)	Asha Bhosle	Dum Maro Dum
+1973	best lyricist	Varma Malik	Jai Bolo
+1973	best dialogue	Ramesh Pant	(Amar Prem)
+1973	best art director colour	N.B. Kulkarni	Pakeezah
+1973	best actor in a comic role	Not Awarded	
+1973	best documentary	Nine Months To Freedom	S. Sukhdev
+1973	best screenplay	Arvind Mukherjee	Amar Prem
+1973	critics award best film	Maya Darpan	Kumar Shahani
+1972	best film	Anand	
+1972	best director	Raj Kapoor	Mera Naam Joker
+1972	best actor	Rajesh Khanna	Anand
+1972	best actress	Asha Parekh	Kati Patang
+1972	best music director	Shanker	Jaikishen
+1972	best actor in a supporting role	Amitabh Bachchan	Anand
+1972	best actress in a supporting role	Farida Jalal	Paras
+1972	best story	Hrishikesh Mukherjee	Anand
+1972	best cinematographer b & w	Kamal Bose	Dastak
+1972	best cinematographer colour	Radhu Karmakar	Mera Naam Joker
+1972	best sound recordist	Allaudin	Mera Naam Joker
+1972	best editor	Hrishikesh Mukherjee	Anand
+1972	best art director b & w	Not Awarded	
+1972	best playback singer (male)	Manna Dey	Ay Bhai Zara Dekh Ke Chalo
+1972	best playback singer (female)	Asha Bhosle	Piya Tu Ab To Aaja
+1972	best lyricist	Hasrat Jaipuri	Zindagi Ek Safar Hai Suhana
+1972	best dialogue	Gulzar	Anand
+1972	best art director colour	Bansi Chandragupta	Seema
+1972	best actor in a comic role	Not Awarded	
+1972	best documentary	Creations In Metal	Homi D.Sethna
+1972	best screenplay	Basu Chatterjee	Sara Akash
+1972	critics award best film	Ashadh Ka Ek Din	Mani Kaul
+1971	best film	Khilona	
+1971	best director	Asit Sen	Safar
+1971	best actor	Rajesh Khanna	Sacha Jhutha
+1971	best actress	Mumtaz	Khilona
+1971	best music director	Shanker	Jaikishen
+1971	best actor in a supporting role	Feroz Khan	Aadmi Aur Insaan
+1971	best actress in a supporting role	Chand Usmani	Pehchan
+1971	best story	Chandrakant Kakodkar	Do Raaste
+1971	best cinematographer b & w	Kamal Bose	Khamoshi
+1971	best cinematographer colour	Jal Mistry	Heer Ranjha
+1971	best sound recordist	S.C. Bhambri	Talash
+1971	best editor	Vijay Anand	Johnny Mera Naam
+1971	best art director b & w	Not Awarded	
+1971	best playback singer (male)	Mukesh	Sabse Bada Nadan
+1971	best playback singer (female)	Sharda	Baat Zara
+1971	best lyricist	Varma Malik	Sabse Bada Nadan
+1971	best dialogue	Rajinder Singh Bedi	Satyakam
+1971	best art director colour	Shanti Das	Talash
+1971	best actor in a comic role	I.S.Johar	Johnny Mera Naam
+1971	best documentary	Koodal	Mushir Ahmed
+1971	best screenplay	Vijay Anand	Johnny Mera Naam
+1971	critics award best film	Uski Roti	Mani Kaul
+1970	best film	Aradhana	
+1970	best director	Yash Chopra	Ittefaq
+1970	best actor	Ashok Kumar	Ashirwad
+1970	best actress	Sharmila Tagore	Aradhana
+1970	best music director	Laxmikant	Pyarelal
+1970	best actor in a supporting role	Pran	Aansoo Ban Gaye Phool
+1970	best actress in a supporting role	Tanuja	Paisa Ya Pyar
+1970	best story	V.S. Kanetkar	Ansoo Ban Gaye Phool
+1970	best cinematographer b & w	Kamal Bose	Anokhi Raat
+1970	best cinematographer colour	Faredoon Irani	Duniya
+1970	best sound recordist	M.A. Shaikh	Ittefaq
+1970	best editor	B.S. Glaad	Nanha Farishta
+1970	best art director b & w	Ajit Banerjee	Anokhi Raat
+1970	best playback singer (male)	Kishore Kumar	Roop Tera Mastana
+1970	best playback singer (female)	Lata Mangeshkar	Aap Mujhe Acche Lagne Lage
+1970	best lyricist	Neeraj	Kaal Ka Pahiya
+1970	best dialogue	Pandit Anand Kumar	Anokhi Raat
+1970	best art director colour	A.R. Kakkad And Baburao T. Poddar	Tamanna
+1970	best actor in a comic role	Mehmood	Waris
+1970	best documentary	"Then, The Rain"	Ramesh Gupta
+1970	best screenplay	Hrishikesh Mukherjee	Anokhi Raat
+1969	best film	Brahmachari	
+1969	best director	Ramanand Sagar	Ankhen
+1969	best actor	Shammi Kapoor	Brahmachari
+1969	best actress	Waheeda Rehman	Neel Kamal
+1969	best music director	Shanker	Jaikishen
+1969	best actor in a supporting role	Sanjeev Kumar	Shikar
+1969	best actress in a supporting role	Simi	Saathi
+1969	best story	Sachin Bhaumick	Brahmachari
+1969	best cinematographer b & w	Nariman A. Irani	Saraswatichandra
+1969	best cinematographer colour	G. Singh	Ankhen
+1969	best sound recordist	P. Thakkersey	Shikar
+1969	best editor	N.M. Shankar	Saathi
+1969	best art director b & w	Ajit Banerjee	Majhli Didi
+1969	best playback singer (male)	Mohammed Rafi	Dilke Jharoke Mein Tujhko Bithake
+1969	best playback singer (female)	Asha Bhosle	Parde Mein Rehne Do
+1969	best lyricist	Shailendra	Main Gaoon Tum So Jao
+1969	best dialogue	Ali Raza	Saraswatichandra
+1969	best art director colour	A.A. Majid	Noor Jehan
+1969	best actor in a comic role	Johnny Walker	Shikar
+1969	best documentary	Explorer	Pramod Pati
+1969	best screenplay	Nabendu Ghosh	Majhli Didi
+1968	best film	Upkar	
+1968	best director	Manoj Kumar	Upkar
+1968	best actor	Dilip Kumar	Ram Aur Shyam
+1968	best actress	Nutan	Milan
+1968	best music director	Laxmikant	Pyarelal
+1968	best actor in a supporting role	Pran	Upkar
+1968	best actress in a supporting role	Jamuna	Milan
+1968	best story	Manoj Kumar	Upkar
+1968	best cinematographer b & w	Jal Mistry	Baharon Ke Sapne
+1968	best cinematographer colour	M.N. Malhotra	Hamraaz
+1968	best sound recordist	J.M. Barot	Jewel Thief
+1968	best editor	B.S. Glaad	Upkar
+1968	best art director b & w	H.V. Maharudria	Taqdeer
+1968	best playback singer (male)	Mahendra Kapoor	Neele Gagan Ke Tale
+1968	best playback singer (female)	Asha Bhosle	Garibon Ki Suno
+1968	best lyricist	Gulshan Bawra	Mere Desh Ki Dharti Sona Ugle
+1968	best dialogue	Manoj Kumar	Upkar
+1968	best art director colour	Abdul Rahim	Chandan Ka Palna
+1968	best actor in a comic role	Om Prakash	Dus Lakh
+1968	best documentary	India '67	S. Sukhdev
+1967	best film	Guide	
+1967	best director	Vijay Anand	Guide
+1967	best actor	Dev Anand	Guide
+1967	best actress	Waheeda Rehman	Guide
+1967	best music director	Shanker	Jaikishen
+1967	best actor in a supporting role	Ashok Kumar	Afsana
+1967	best actress in a supporting role	Simi	Do Badan
+1967	best story	R.K. Narayan	Guide
+1967	best cinematographer b & w	Jaywant Pathare	Anupama
+1967	best cinematographer colour	Fali Mistry	Guide
+1967	best sound recordist	Manohar Amberkar	Mera Saaya
+1967	best editor	Vasant Borkar	Phool Aur Patthar
+1967	best art director b & w	Sant Singh	Yeh Raat Phir Na Aayegi
+1967	best playback singer (male/female)	Mohammed Rafi	Baharon Phool Barsao
+1967	best lyricist	Hasrat Jaipuri	Baharon Phool Barsao
+1967	best dialogue	Vijay Anand	Guide
+1967	best art director colour	Shanti Das	Phool Aur Patthar
+1967	best actor in a comic role	Mehmood	Pyar Kiye Jaa
+1967	best documentary	Handicrafts Of Rajasthan	Clement T. Baptista
+1966	best film	Himalay Ki God Mein	
+1966	best director	Yash Chopra	Waqt
+1966	best actor	Sunil Dutt	Khandaan
+1966	best actress	Meena Kumari	Kaajal
+1966	best actor in a supporting role	Raaj Kumar	Waqt
+1966	best actress in a supporting role	Padmini	Kaajal
+1966	best music director	Ravi	Khandaan
+1966	best playback singer (male/female)	Lata Mangeshkar	Tumhi Mere Mandir Tumhi Meri Pooja
+1966	best lyricist	Rajendra Krishna	"Tumhi Mere Mandir, Tumhi Meri Pooja"
+1966	best story	Akhtar Mirza	Waqt
+1966	best cinematographer b & w	Ramachandra	Yaadein
+1966	best cinematographer colour	Dharam Chopra	Waqt
+1966	best sound recordist	Essa M. Suratwala	Yaadein
+1966	best editor	Pratap Dave	Himalay Ki God Mein
+1966	best art director b & w	M.S. Sathyu	Haqeeqat
+1966	best dialogue	Akhtar	Ul
+1966	best art director colour	S.S. Samel	Gumnaam
+1965	best film	Dosti	
+1965	best director	Raj Kapoor	Sangam
+1965	best actor	Dilip Kumar	Leader
+1965	best actress	Vyjayanthimala	Sangam
+1965	best actor in a supporting role	Nana Palsikar	Shehar Aur Sapna
+1965	best actress in a supporting role	Nirupa Roy	Shehnai
+1965	best music director	Laxmikant	Pyarelal
+1965	best playback singer (male/female)	Mohammed Rafi	Chahunga Main Tujhe Sanjh Savere
+1965	best lyricist	Majrooh Sultanpuri	Chahunga Main Tujhe Sanjh Savera
+1965	best story	Ban Bhatt	Dosti
+1965	best cinematographer b & w	K.H. Kapadia	Woh Kaun Thi?
+1965	best cinematographer colour	Krishnarao Vashirde	Geet Gaya Pattharonne
+1965	best sound recordist	Allauddin	Sangam
+1965	best editor	Raj Kapoor	Sangam
+1965	best art director b & w	G.L. Yadhav And T.K. Desai	Kohraa
+1965	best art director colour	Sant Singh	Jahan Ara
+1965	best dialogue	Govind Moonis	Dosti
+1964	best film	Bandini	
+1964	best director	Bimal Roy	Bandini
+1964	best actor	Sunil Dutt	Mujhe Jeene Do
+1964	best actress	Nutan	Bandini
+1964	best actor in a supporting role	Raaj Kumar	Dil Ek Mandir
+1964	best actress in a supporting role	Shashikala	Gumrah
+1964	best music director	Roshan	Taj Mahal
+1964	best playback singer (male/female)	Mahendra Kapoor	Chalo Ek Baar Phir Se
+1964	best lyricist	Sahir Ludhianvi	Jo Vada Kiya Woh Nibhana Padega
+1964	best story	Jarasandha	Bandini
+1964	best cinematographer b & w	Kamal Bose	Bandini
+1964	best cinematographer colour	Krishnarao Vashirde	Sehra
+1964	best sound recordist	Dinshaw Billimoria	Bandini
+1964	best editor	Pran Mehra	Gumrah
+1964	best art director b & w	Sudhendu Roy	Mere Mehboob
+1964	best dialogue	Arjun Dev Rashk	Dil Ek Mandir
+1963	best film	Sahib Bibi Aur Ghulam	
+1963	best director	Abrar Alvi	Sahib Bibi Aur Ghulam
+1963	best actor	Ashok Kumar	Rakhi
+1963	best actress	Meena Kumari	Sahib Bibi Aur Ghulam
+1963	best actor in a supporting role	Mehmood	Dil Tera Deewana
+1963	best actress in a supporting role	Shashikala	Aarti
+1963	best music director	Shanker	Jaikishen
+1963	best playback singer (male/female)	Lata Mangeshkar	Kahin Deep Jale Kahin Dil
+1963	best lyricist	Shakeel Badayuni	Kahin Deep Jale Kahin Dil
+1963	best story	K.P. Kottarakkara	Rakhi
+1963	best cinematographer b & w	V.K. Murthy	Sahib Bibi Aur Ghulam
+1963	best sound recordist	S.Y. Pathak	Bees Saal Baad
+1963	best editor	Keshav Naidu	Bees Saal Baad
+1963	best art director b & w	D.R. Jadhav And Ram Yedekar	Son Of India
+1963	best dialogue	Akhtar	Ul
+1962	best film	Jis Desh Men Ganga Behti Hai	
+1962	best director	B.R. Chopra	Kanoon
+1962	best actor	Raj Kapoor	Jis Desh Men Ganga Behti Hai
+1962	best actress	Vyjayanthimala	Gunga
+1962	best actor in a supporting role	Nana Palsikar	Kanoon
+1962	best actress in a supporting role	Nirupa Roy	Chhaya
+1962	best music director	Ravi	Gharana
+1962	best playback singer (male/female)	Mohammed Rafi	Chashme Buddoor
+1962	best lyricist	Shakeel Badayuni	Husnwale Tera Jawab Nahin
+1962	best story	Sridhar	Nazrana
+1962	best cinematographer b & w	V. Babasaheb	Gunga Jumna
+1962	best sound recordist	Kuldeep Singh	Junglee
+1962	best editor	G.G. Mayekar	Jis Desh Men Ganga Behti Hai
+1962	best art director b & w	M.R. Acharekar	Jis Desh Men Ganga Behti Hai
+1962	best dialogue	Wajahat Mirza	Gunga
+1961	best film	Maan Gaye Mughal	E
+1961	best director	Bimal Roy	Parakh
+1961	best actor	Dilip Kumar	Kohinoor
+1961	best actress	Bina Rai	Ghunghat
+1961	best actor in a supporting role	Motilal	Parakh
+1961	best actress in a supporting role	Nanda	Anchal
+1961	best music director	Shanker	Jaikishen
+1961	best playback singer (male/female)	Mohammed Rafi	Chaudhvin Ka Chand
+1961	best lyricist	Shakeel Badayuni	Chaudhvin Ka Chand Ho
+1961	best story	Ruby Sen	Masoom
+1961	best cinematographer b & w	R.D. Mathur	Maan Gaye Mughal
+1961	best sound recordist	George D'Cruz	Parakh
+1961	best editor	Moosa Mansoor	Kohinoor
+1961	best art director b & w	Biren Naug	Chaudhvin Ka Chand
+1961	best dialogue	Aman|Kamal Amrohi|Wajahat Mirza|Ehsan Rizvi	Maan Gaye Mughal
+1960	best film	Sujata	
+1960	best director	Bimal Roy	Sujata
+1960	best actor	Raj Kapoor	Anari
+1960	best actress	Nutan	Sujata
+1960	best actor in a supporting role	Manmohan Krishna	Dhool Ka Phool
+1960	best actress in a supporting role	Lalita Pawar	Anari
+1960	best music director	Shanker	Jaikishen
+1960	best playback singer (male/female)	Mukesh	Sab Kuchh Seekha Hamne
+1960	best lyricist	Shailendra	Sab Kuchh Seekha Hamne
+1960	best story	Subodh Ghosh	Sujata
+1960	best cinematographer b & w	V.K. Murthy	Kaagaz Ke Phool
+1960	best sound recordist	A.K. Parmar	Navrang
+1960	best editor	Chintaman Borkar	Kohinoor
+1960	best art director b & w	M.R. Acharekar	Kaagaz Ke Phool
+1960	best dialogue	Ramanand Sagar	Paigham
+1959	best film	Madhumati	
+1959	best director	Bimal Roy	Madhumati
+1959	best actor	Dev Anand	Kala Pani
+1959	best actress	Vyjayanthimala	Sadhana
+1959	best actor in a supporting role	Johnny Walker	Madhumati
+1959	best actress in a supporting role	Nalini Jaywant	Kala Pani
+1959	best music director	Salil Choudhury	Madhumati
+1959	best playback singer (male/female)	Lata Mangeshkar	Aaja Re Pardesi
+1959	best lyricist	Shailendra	Yeh Mera Deewanapan
+1959	best story	Pandit Mukhram Sharma	Sadhna
+1959	best cinematographer b & w	Dilip Gupta	Madhumati
+1959	best sound recordist	Ishan Ghosh	Chandan
+1959	best editor	Hrishikesh Mukherjee	Madhumati
+1959	best art director b & w	Sudhendu Roy	Madhumati
+1959	best dialogue	Rajinder Singh Bedi	Madhumati
+1958	best film	Mother India	
+1958	best director	Mehboob Khan	Mother India
+1958	best actor	Dilip Kumar	Naya Daur
+1958	best actress	Nargis	Mother India
+1958	best actor in a supporting role	Raj Mehra	Sharada
+1958	best actress in a supporting role	Shyama	Sharada
+1958	best music director	O.P.Nayyar	Naya Daur
+1958	best story	Akhtar Mirza	Naya Daur
+1958	best cinematographer b & w	Faredoon Irani	Mother India
+1958	best sound recordist	R. Kaushik	Mother India
+1958	best editor	Shivaji Awdhut	Sharada
+1958	best art director b & w	M.R. Acharekar	Pardesi
+1957	best film	Jhanak Jhanak Payal Baaje	
+1957	best director	V. Shantaram	Jhanak Jhanak Payal Baaje
+1957	best actor	Dilip Kumar	Devdas
+1957	best actress	Nutan	Seema
+1957	best actor in a supporting role	Motilal	Devdas
+1957	best actress in a supporting role	Vyjayanthimala	Devdas
+1957	best music director	Shanker	Jaikishen
+1957	best story	Amiya Chakrabarty	Seema
+1957	best cinematographer b & w	Radhu Karmakar	Shree 420
+1957	best sound recordist	A.K. Parmar	Jhanak Jhanak Payal Baaje
+1957	best editor	G.G. Mayekar	Shree 420
+1957	best art director b & w	Kanu Desai	Jhanak Jhanak Payal Baaje
+1956	best film	Jagriti	
+1956	best director	Bimal Roy	Biraj Bahu
+1956	best actor	Dilip Kumar	Azaad
+1956	best actress	Kamini Kaushal	Biraj Bahu
+1956	best actor in a supporting role	Abhi Bhattacharya	Jagriti
+1956	best actress in a supporting role	Nirupa Roy	Munimji
+1956	best music director	Hemant Kumar	Nagin
+1956	best story	Pandit Mukhram Sharma	Vachan
+1956	best cinematographer b & w	Dwarka Divecha	Yasmin
+1956	best sound recordist	R. Kaushik	Amar
+1956	best editor	Hrishikesh Mukherjee	Naukri
+1956	best art director b & w	Rusi Banker	Mirza Ghalib
+1955	best film	Boot Polish	
+1955	best director	Bimal Roy	Parineeta
+1955	best actor	Bharat Bhooshan	Shri Chaitanya Mahaprabhu
+1955	best actress	Meena Kumari	Parineeta
+1955	best actor in a supporting role	David	Boot Polish
+1955	best actress in a supporting role	Usha Kiron	Baadbaan
+1955	best music director	S.D. Burman	Taxi Driver
+1955	best story	Pandit Mukhram Sharma	Aulad
+1955	best cinematographer b & w	Tara Dutt	Boot Polish
+1955	best sound recordist	Ishan Ghosh	Jeevan Jyoti
+1954	best film	Do Bigha Zamin	
+1954	best director	Bimal Roy	Do Bigha Zamin
+1954	best actor	Dilip Kumar	Daag
+1954	best actress	Meena Kumari	Baiju Bawra
+1954	best music director	Naushad	Baiju Bawra
